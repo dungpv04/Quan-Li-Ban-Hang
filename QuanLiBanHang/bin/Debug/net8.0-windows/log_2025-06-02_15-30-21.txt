@@ -1,0 +1,4 @@
+[2025-06-02 15:30:26] [ERROR] Error adding entity of type LoaiHang: The key value at position 0 of the call to 'DbSet<LoaiHang>.Find' was of type 'LoaiHang', which does not match the property type of 'string'.
+[2025-06-02 15:30:31] [ERROR] Error adding entity of type LoaiHang: The key value at position 0 of the call to 'DbSet<LoaiHang>.Find' was of type 'LoaiHang', which does not match the property type of 'string'.
+[2025-06-02 15:30:50] [ERROR] Error adding entity of type LoaiHang: The key value at position 0 of the call to 'DbSet<LoaiHang>.Find' was of type 'LoaiHang', which does not match the property type of 'string'.
+[2025-06-02 15:31:01] [ERROR] Error adding entity of type LoaiHang: The key value at position 0 of the call to 'DbSet<LoaiHang>.Find' was of type 'LoaiHang', which does not match the property type of 'string'.

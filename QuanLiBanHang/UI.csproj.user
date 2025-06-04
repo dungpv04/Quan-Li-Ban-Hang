@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CatalogScreen\BrandScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CatalogScreen\CustomerScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CatalogScreen\EmployeeScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CatalogScreen\ProductScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CatalogScreen\ProductTypeScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="InvoiceScreen\ExportInvoiceScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="InvoiceScreen\ImportInvoiceScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CatalogScreen\SupplierScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ReportScreen\RevenueReportScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

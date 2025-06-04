@@ -1,0 +1,14 @@
+D:\cs\QuanLiBanHang\Logger\bin\Debug\net8.0\Logger.exe
+D:\cs\QuanLiBanHang\Logger\bin\Debug\net8.0\Logger.deps.json
+D:\cs\QuanLiBanHang\Logger\bin\Debug\net8.0\Logger.runtimeconfig.json
+D:\cs\QuanLiBanHang\Logger\bin\Debug\net8.0\Logger.dll
+D:\cs\QuanLiBanHang\Logger\bin\Debug\net8.0\Logger.pdb
+D:\cs\QuanLiBanHang\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs\QuanLiBanHang\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+D:\cs\QuanLiBanHang\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+D:\cs\QuanLiBanHang\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+D:\cs\QuanLiBanHang\Logger\obj\Debug\net8.0\Logger.dll
+D:\cs\QuanLiBanHang\Logger\obj\Debug\net8.0\refint\Logger.dll
+D:\cs\QuanLiBanHang\Logger\obj\Debug\net8.0\Logger.pdb
+D:\cs\QuanLiBanHang\Logger\obj\Debug\net8.0\Logger.genruntimeconfig.cache
+D:\cs\QuanLiBanHang\Logger\obj\Debug\net8.0\ref\Logger.dll

@@ -1,0 +1,6 @@
+[2025-06-04 13:28:31] [INFO] Successfully fetched all entities of type LoaiHang. Count: 6
+[2025-06-04 13:28:31] [DEBUG] Fetched 6 entities of type LoaiHang.
+[2025-06-04 13:28:37] [INFO] Deleted entity of type LoaiHang with id=224232asffdf.
+[2025-06-04 13:28:49] [INFO] Successfully fetched all entities of type LoaiHang. Count: 5
+[2025-06-04 13:28:49] [DEBUG] Fetched 5 entities of type LoaiHang.
+[2025-06-04 13:28:59] [WARNING] No entity found to delete of type LoaiHang with id=224232asffdf.
