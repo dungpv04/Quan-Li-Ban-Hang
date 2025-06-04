@@ -175,3 +175,4 @@ D:\cs\QuanLiBanHang\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.runtimeconfig.
 D:\cs\QuanLiBanHang\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.exe
 D:\cs\QuanLiBanHang\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.dll
 D:\cs\QuanLiBanHang\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.pdb
+D:\cs\QuanLiBanHang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.sourcelink.json

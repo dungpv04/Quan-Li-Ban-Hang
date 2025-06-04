@@ -41,10 +41,7 @@
             btnAdd = new Button();
             btnEdit = new Button();
             btnDelete = new Button();
-            btnSave = new Button();
-            btnCancel = new Button();
             btnSearch = new Button();
-            btnShowList = new Button();
             btnExit = new Button();
             ((System.ComponentModel.ISupportInitialize)picProduct).BeginInit();
             ((System.ComponentModel.ISupportInitialize)dgvProduct).BeginInit();
@@ -262,6 +259,7 @@
             btnAdd.TabIndex = 24;
             btnAdd.Text = "Thêm";
             btnAdd.UseVisualStyleBackColor = true;
+            btnAdd.Click += btnAdd_Click;
             // 
             // btnEdit
             // 
@@ -272,6 +270,7 @@
             btnEdit.TabIndex = 25;
             btnEdit.Text = "Sửa";
             btnEdit.UseVisualStyleBackColor = true;
+            btnEdit.Click += btnEdit_Click;
             // 
             // btnDelete
             // 
@@ -282,26 +281,7 @@
             btnDelete.TabIndex = 26;
             btnDelete.Text = "Xóa";
             btnDelete.UseVisualStyleBackColor = true;
-            // 
-            // btnSave
-            // 
-            btnSave.Location = new Point(370, 650);
-            btnSave.Margin = new Padding(3, 4, 3, 4);
-            btnSave.Name = "btnSave";
-            btnSave.Size = new Size(80, 38);
-            btnSave.TabIndex = 27;
-            btnSave.Text = "Lưu";
-            btnSave.UseVisualStyleBackColor = true;
-            // 
-            // btnCancel
-            // 
-            btnCancel.Location = new Point(470, 650);
-            btnCancel.Margin = new Padding(3, 4, 3, 4);
-            btnCancel.Name = "btnCancel";
-            btnCancel.Size = new Size(80, 38);
-            btnCancel.TabIndex = 28;
-            btnCancel.Text = "Bỏ qua";
-            btnCancel.UseVisualStyleBackColor = true;
+            btnDelete.Click += btnDelete_Click;
             // 
             // btnSearch
             // 
@@ -312,16 +292,6 @@
             btnSearch.TabIndex = 29;
             btnSearch.Text = "Tìm kiếm";
             btnSearch.UseVisualStyleBackColor = true;
-            // 
-            // btnShowList
-            // 
-            btnShowList.Location = new Point(670, 650);
-            btnShowList.Margin = new Padding(3, 4, 3, 4);
-            btnShowList.Name = "btnShowList";
-            btnShowList.Size = new Size(100, 38);
-            btnShowList.TabIndex = 30;
-            btnShowList.Text = "Hiển thị ds";
-            btnShowList.UseVisualStyleBackColor = true;
             // 
             // btnExit
             // 
@@ -361,10 +331,7 @@
             Controls.Add(btnAdd);
             Controls.Add(btnEdit);
             Controls.Add(btnDelete);
-            Controls.Add(btnSave);
-            Controls.Add(btnCancel);
             Controls.Add(btnSearch);
-            Controls.Add(btnShowList);
             Controls.Add(btnExit);
             Margin = new Padding(3, 4, 3, 4);
             Name = "ProductScreen";
@@ -401,10 +368,7 @@
         private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.Button btnEdit;
         private System.Windows.Forms.Button btnDelete;
-        private System.Windows.Forms.Button btnSave;
-        private System.Windows.Forms.Button btnCancel;
         private System.Windows.Forms.Button btnSearch;
-        private System.Windows.Forms.Button btnShowList;
         private System.Windows.Forms.Button btnExit;
     }
 }
