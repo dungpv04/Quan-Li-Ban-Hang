@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cs\\QuanLiBanHang\\Shared\\Shared.csproj": {}
+    "D:\\Project\\csharp_design_patterns\\Quan-Li-Ban-Hang\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "D:\\cs\\QuanLiBanHang\\Database\\Database.csproj": {
+    "D:\\Project\\csharp_design_patterns\\Quan-Li-Ban-Hang\\Database\\Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cs\\QuanLiBanHang\\Database\\Database.csproj",
+        "projectUniqueName": "D:\\Project\\csharp_design_patterns\\Quan-Li-Ban-Hang\\Database\\Database.csproj",
         "projectName": "Database",
-        "projectPath": "D:\\cs\\QuanLiBanHang\\Database\\Database.csproj",
-        "packagesPath": "C:\\Users\\vandu\\.nuget\\packages\\",
-        "outputPath": "D:\\cs\\QuanLiBanHang\\Database\\obj\\",
+        "projectPath": "D:\\Project\\csharp_design_patterns\\Quan-Li-Ban-Hang\\Database\\Database.csproj",
+        "packagesPath": "C:\\Users\\manhm\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\csharp_design_patterns\\Quan-Li-Ban-Hang\\Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vandu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\manhm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\cs\\QuanLiBanHang\\Logger\\Logger.csproj": {
-                "projectPath": "D:\\cs\\QuanLiBanHang\\Logger\\Logger.csproj"
+              "D:\\Project\\csharp_design_patterns\\Quan-Li-Ban-Hang\\Logger\\Logger.csproj": {
+                "projectPath": "D:\\Project\\csharp_design_patterns\\Quan-Li-Ban-Hang\\Logger\\Logger.csproj"
               }
             }
           }
@@ -48,12 +48,16 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.6.3, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.5, )"
@@ -93,24 +97,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\cs\\QuanLiBanHang\\Logger\\Logger.csproj": {
+    "D:\\Project\\csharp_design_patterns\\Quan-Li-Ban-Hang\\Logger\\Logger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cs\\QuanLiBanHang\\Logger\\Logger.csproj",
+        "projectUniqueName": "D:\\Project\\csharp_design_patterns\\Quan-Li-Ban-Hang\\Logger\\Logger.csproj",
         "projectName": "Logger",
-        "projectPath": "D:\\cs\\QuanLiBanHang\\Logger\\Logger.csproj",
-        "packagesPath": "C:\\Users\\vandu\\.nuget\\packages\\",
-        "outputPath": "D:\\cs\\QuanLiBanHang\\Logger\\obj\\",
+        "projectPath": "D:\\Project\\csharp_design_patterns\\Quan-Li-Ban-Hang\\Logger\\Logger.csproj",
+        "packagesPath": "C:\\Users\\manhm\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\csharp_design_patterns\\Quan-Li-Ban-Hang\\Logger\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vandu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\manhm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -137,7 +141,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -158,24 +162,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\cs\\QuanLiBanHang\\Shared\\Shared.csproj": {
+    "D:\\Project\\csharp_design_patterns\\Quan-Li-Ban-Hang\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cs\\QuanLiBanHang\\Shared\\Shared.csproj",
+        "projectUniqueName": "D:\\Project\\csharp_design_patterns\\Quan-Li-Ban-Hang\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "D:\\cs\\QuanLiBanHang\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\vandu\\.nuget\\packages\\",
-        "outputPath": "D:\\cs\\QuanLiBanHang\\Shared\\obj\\",
+        "projectPath": "D:\\Project\\csharp_design_patterns\\Quan-Li-Ban-Hang\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\manhm\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\csharp_design_patterns\\Quan-Li-Ban-Hang\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vandu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\manhm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -190,8 +194,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\cs\\QuanLiBanHang\\Database\\Database.csproj": {
-                "projectPath": "D:\\cs\\QuanLiBanHang\\Database\\Database.csproj"
+              "D:\\Project\\csharp_design_patterns\\Quan-Li-Ban-Hang\\Database\\Database.csproj": {
+                "projectPath": "D:\\Project\\csharp_design_patterns\\Quan-Li-Ban-Hang\\Database\\Database.csproj"
               }
             }
           }
@@ -206,7 +210,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -233,7 +237,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
