@@ -9,6 +9,7 @@ public static class DatabaseDependency
     {
         services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
         services.AddScoped<IProductTypeRepository, ProductTypeRepository>(); // Fixed syntax
+        services.AddScoped<IRevenueReportRepository, RevenueReportRepository>();
         services.AddDbContext<AppDbContext>();
         return services;
     }

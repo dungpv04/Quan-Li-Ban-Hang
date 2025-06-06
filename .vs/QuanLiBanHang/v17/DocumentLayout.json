@@ -1,34 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\cs\\QuanLiBanHang\\",
+  "WorkspaceRootPath": "E:\\Quan-Li-Ban-Hang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|d:\\cs\\quanlibanhang\\quanlibanhang\\catalogscreen\\productscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|solutionrelative:quanlibanhang\\catalogscreen\\productscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F3E33871-2364-4562-B367-1BE5955D823E}|Services\\Services.csproj|e:\\quan-li-ban-hang\\services\\services\\revenuereportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E33871-2364-4562-B367-1BE5955D823E}|Services\\Services.csproj|solutionrelative:services\\services\\revenuereportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|d:\\cs\\quanlibanhang\\quanlibanhang\\catalogscreen\\productscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|solutionrelative:quanlibanhang\\catalogscreen\\productscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3E33871-2364-4562-B367-1BE5955D823E}|Services\\Services.csproj|e:\\quan-li-ban-hang\\services\\iservices\\irevenuereportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E33871-2364-4562-B367-1BE5955D823E}|Services\\Services.csproj|solutionrelative:services\\iservices\\irevenuereportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|d:\\cs\\quanlibanhang\\quanlibanhang\\catalogscreen\\producttypescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|e:\\quan-li-ban-hang\\database\\repositories\\revenuereportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|solutionrelative:database\\repositories\\revenuereportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E33871-2364-4562-B367-1BE5955D823E}|Services\\Services.csproj|e:\\quan-li-ban-hang\\services\\services\\producttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E33871-2364-4562-B367-1BE5955D823E}|Services\\Services.csproj|solutionrelative:services\\services\\producttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|e:\\quan-li-ban-hang\\quanlibanhang\\reportscreen\\revenuereportscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|solutionrelative:quanlibanhang\\reportscreen\\revenuereportscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|e:\\quan-li-ban-hang\\quanlibanhang\\reportscreen\\revenuereportscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|solutionrelative:quanlibanhang\\reportscreen\\revenuereportscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|e:\\quan-li-ban-hang\\quanlibanhang\\catalogscreen\\producttypescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|solutionrelative:quanlibanhang\\catalogscreen\\producttypescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|d:\\cs\\quanlibanhang\\database\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|solutionrelative:database\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|e:\\quan-li-ban-hang\\database\\databasedependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|solutionrelative:database\\databasedependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|d:\\cs\\quanlibanhang\\database\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|solutionrelative:database\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA4A43DE-4203-43C9-B1CA-7BD8ECB6175D}|Shared\\Shared.csproj|e:\\quan-li-ban-hang\\shared\\shareddependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4A43DE-4203-43C9-B1CA-7BD8ECB6175D}|Shared\\Shared.csproj|solutionrelative:shared\\shareddependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|d:\\cs\\quanlibanhang\\database\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|solutionrelative:database\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3E33871-2364-4562-B367-1BE5955D823E}|Services\\Services.csproj|e:\\quan-li-ban-hang\\services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E33871-2364-4562-B367-1BE5955D823E}|Services\\Services.csproj|solutionrelative:services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA4A43DE-4203-43C9-B1CA-7BD8ECB6175D}|Shared\\Shared.csproj|d:\\cs\\quanlibanhang\\shared\\view models\\producttypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA4A43DE-4203-43C9-B1CA-7BD8ECB6175D}|Shared\\Shared.csproj|solutionrelative:shared\\view models\\producttypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|e:\\quan-li-ban-hang\\database\\irepositories\\irevenuereportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|solutionrelative:database\\irepositories\\irevenuereportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E33871-2364-4562-B367-1BE5955D823E}|Services\\Services.csproj|e:\\quan-li-ban-hang\\services\\iservices\\iproducttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E33871-2364-4562-B367-1BE5955D823E}|Services\\Services.csproj|solutionrelative:services\\iservices\\iproducttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4A43DE-4203-43C9-B1CA-7BD8ECB6175D}|Shared\\Shared.csproj|e:\\quan-li-ban-hang\\shared\\factory\\viewmodelabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4A43DE-4203-43C9-B1CA-7BD8ECB6175D}|Shared\\Shared.csproj|solutionrelative:shared\\factory\\viewmodelabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4A43DE-4203-43C9-B1CA-7BD8ECB6175D}|Shared\\Shared.csproj|e:\\quan-li-ban-hang\\shared\\ifactory\\iabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4A43DE-4203-43C9-B1CA-7BD8ECB6175D}|Shared\\Shared.csproj|solutionrelative:shared\\ifactory\\iabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|e:\\quan-li-ban-hang\\quanlibanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|solutionrelative:quanlibanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,96 +70,206 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductScreen.cs [Design]",
-              "DocumentMoniker": "D:\\cs\\QuanLiBanHang\\QuanLiBanHang\\CatalogScreen\\ProductScreen.cs",
-              "RelativeDocumentMoniker": "QuanLiBanHang\\CatalogScreen\\ProductScreen.cs",
-              "ToolTip": "D:\\cs\\QuanLiBanHang\\QuanLiBanHang\\CatalogScreen\\ProductScreen.cs [Design]",
-              "RelativeToolTip": "QuanLiBanHang\\CatalogScreen\\ProductScreen.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "RevenueReportScreen.cs [Design]",
+              "DocumentMoniker": "E:\\Quan-Li-Ban-Hang\\QuanLiBanHang\\ReportScreen\\RevenueReportScreen.cs",
+              "RelativeDocumentMoniker": "QuanLiBanHang\\ReportScreen\\RevenueReportScreen.cs",
+              "ToolTip": "E:\\Quan-Li-Ban-Hang\\QuanLiBanHang\\ReportScreen\\RevenueReportScreen.cs [Design]",
+              "RelativeToolTip": "QuanLiBanHang\\ReportScreen\\RevenueReportScreen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:47:20.754Z",
+              "WhenOpened": "2025-06-06T10:38:47.895Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductScreen.cs",
-              "DocumentMoniker": "D:\\cs\\QuanLiBanHang\\QuanLiBanHang\\CatalogScreen\\ProductScreen.cs",
-              "RelativeDocumentMoniker": "QuanLiBanHang\\CatalogScreen\\ProductScreen.cs",
-              "ToolTip": "D:\\cs\\QuanLiBanHang\\QuanLiBanHang\\CatalogScreen\\ProductScreen.cs",
-              "RelativeToolTip": "QuanLiBanHang\\CatalogScreen\\ProductScreen.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBUAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "RevenueReportScreen.cs",
+              "DocumentMoniker": "E:\\Quan-Li-Ban-Hang\\QuanLiBanHang\\ReportScreen\\RevenueReportScreen.cs",
+              "RelativeDocumentMoniker": "QuanLiBanHang\\ReportScreen\\RevenueReportScreen.cs",
+              "ToolTip": "E:\\Quan-Li-Ban-Hang\\QuanLiBanHang\\ReportScreen\\RevenueReportScreen.cs",
+              "RelativeToolTip": "QuanLiBanHang\\ReportScreen\\RevenueReportScreen.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAtwGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:47:19.054Z",
+              "WhenOpened": "2025-06-06T10:28:37.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ProductTypeScreen.cs",
-              "DocumentMoniker": "D:\\cs\\QuanLiBanHang\\QuanLiBanHang\\CatalogScreen\\ProductTypeScreen.cs",
+              "DocumentMoniker": "E:\\Quan-Li-Ban-Hang\\QuanLiBanHang\\CatalogScreen\\ProductTypeScreen.cs",
               "RelativeDocumentMoniker": "QuanLiBanHang\\CatalogScreen\\ProductTypeScreen.cs",
-              "ToolTip": "D:\\cs\\QuanLiBanHang\\QuanLiBanHang\\CatalogScreen\\ProductTypeScreen.cs",
+              "ToolTip": "E:\\Quan-Li-Ban-Hang\\QuanLiBanHang\\CatalogScreen\\ProductTypeScreen.cs",
               "RelativeToolTip": "QuanLiBanHang\\CatalogScreen\\ProductTypeScreen.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAnwBEAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAIA1wEEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T13:45:18.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RevenueReportService.cs",
+              "DocumentMoniker": "E:\\Quan-Li-Ban-Hang\\Services\\Services\\RevenueReportService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\RevenueReportService.cs",
+              "ToolTip": "E:\\Quan-Li-Ban-Hang\\Services\\Services\\RevenueReportService.cs",
+              "RelativeToolTip": "Services\\Services\\RevenueReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:24:36.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRevenueReportService.cs",
+              "DocumentMoniker": "E:\\Quan-Li-Ban-Hang\\Services\\IServices\\IRevenueReportService.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\IRevenueReportService.cs",
+              "ToolTip": "E:\\Quan-Li-Ban-Hang\\Services\\IServices\\IRevenueReportService.cs",
+              "RelativeToolTip": "Services\\IServices\\IRevenueReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:23:46.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RevenueReportRepository.cs",
+              "DocumentMoniker": "E:\\Quan-Li-Ban-Hang\\Database\\Repositories\\RevenueReportRepository.cs",
+              "RelativeDocumentMoniker": "Database\\Repositories\\RevenueReportRepository.cs",
+              "ToolTip": "E:\\Quan-Li-Ban-Hang\\Database\\Repositories\\RevenueReportRepository.cs",
+              "RelativeToolTip": "Database\\Repositories\\RevenueReportRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:20:55.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRevenueReportRepository.cs",
+              "DocumentMoniker": "E:\\Quan-Li-Ban-Hang\\Database\\IRepositories\\IRevenueReportRepository.cs",
+              "RelativeDocumentMoniker": "Database\\IRepositories\\IRevenueReportRepository.cs",
+              "ToolTip": "E:\\Quan-Li-Ban-Hang\\Database\\IRepositories\\IRevenueReportRepository.cs",
+              "RelativeToolTip": "Database\\IRepositories\\IRevenueReportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:04:42.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewModelAbstractFactory.cs",
+              "DocumentMoniker": "E:\\Quan-Li-Ban-Hang\\Shared\\Factory\\ViewModelAbstractFactory.cs",
+              "RelativeDocumentMoniker": "Shared\\Factory\\ViewModelAbstractFactory.cs",
+              "ToolTip": "E:\\Quan-Li-Ban-Hang\\Shared\\Factory\\ViewModelAbstractFactory.cs",
+              "RelativeToolTip": "Shared\\Factory\\ViewModelAbstractFactory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:50:55.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAbstractFactory.cs",
+              "DocumentMoniker": "E:\\Quan-Li-Ban-Hang\\Shared\\IFactory\\IAbstractFactory.cs",
+              "RelativeDocumentMoniker": "Shared\\IFactory\\IAbstractFactory.cs",
+              "ToolTip": "E:\\Quan-Li-Ban-Hang\\Shared\\IFactory\\IAbstractFactory.cs",
+              "RelativeToolTip": "Shared\\IFactory\\IAbstractFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAClAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:58:37.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SharedDependencies.cs",
+              "DocumentMoniker": "E:\\Quan-Li-Ban-Hang\\Shared\\SharedDependencies.cs",
+              "RelativeDocumentMoniker": "Shared\\SharedDependencies.cs",
+              "ToolTip": "E:\\Quan-Li-Ban-Hang\\Shared\\SharedDependencies.cs",
+              "RelativeToolTip": "Shared\\SharedDependencies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:50:23.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Quan-Li-Ban-Hang\\Services\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Program.cs",
+              "ToolTip": "E:\\Quan-Li-Ban-Hang\\Services\\Program.cs",
+              "RelativeToolTip": "Services\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:47:04.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseDependency.cs",
+              "DocumentMoniker": "E:\\Quan-Li-Ban-Hang\\Database\\DatabaseDependency.cs",
+              "RelativeDocumentMoniker": "Database\\DatabaseDependency.cs",
+              "ToolTip": "E:\\Quan-Li-Ban-Hang\\Database\\DatabaseDependency.cs",
+              "RelativeToolTip": "Database\\DatabaseDependency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:58:37.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Quan-Li-Ban-Hang\\QuanLiBanHang\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLiBanHang\\Program.cs",
+              "ToolTip": "E:\\Quan-Li-Ban-Hang\\QuanLiBanHang\\Program.cs",
+              "RelativeToolTip": "QuanLiBanHang\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:48:08.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductTypeService.cs",
+              "DocumentMoniker": "E:\\Quan-Li-Ban-Hang\\Services\\IServices\\IProductTypeService.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\IProductTypeService.cs",
+              "ToolTip": "E:\\Quan-Li-Ban-Hang\\Services\\IServices\\IProductTypeService.cs",
+              "RelativeToolTip": "Services\\IServices\\IProductTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:42:41.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\cs\\QuanLiBanHang\\Database\\appsettings.json",
-              "RelativeDocumentMoniker": "Database\\appsettings.json",
-              "ToolTip": "D:\\cs\\QuanLiBanHang\\Database\\appsettings.json",
-              "RelativeToolTip": "Database\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-04T13:45:00.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\cs\\QuanLiBanHang\\Database\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "Database\\Repositories\\Repository.cs",
-              "ToolTip": "D:\\cs\\QuanLiBanHang\\Database\\Repositories\\Repository.cs",
-              "RelativeToolTip": "Database\\Repositories\\Repository.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Title": "ProductTypeService.cs",
+              "DocumentMoniker": "E:\\Quan-Li-Ban-Hang\\Services\\Services\\ProductTypeService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\ProductTypeService.cs",
+              "ToolTip": "E:\\Quan-Li-Ban-Hang\\Services\\Services\\ProductTypeService.cs",
+              "RelativeToolTip": "Services\\Services\\ProductTypeService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:44:45.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\cs\\QuanLiBanHang\\Database\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Database\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\cs\\QuanLiBanHang\\Database\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Database\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:44:12.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductTypeViewModel.cs",
-              "DocumentMoniker": "D:\\cs\\QuanLiBanHang\\Shared\\View Models\\ProductTypeViewModel.cs",
-              "RelativeDocumentMoniker": "Shared\\View Models\\ProductTypeViewModel.cs",
-              "ToolTip": "D:\\cs\\QuanLiBanHang\\Shared\\View Models\\ProductTypeViewModel.cs",
-              "RelativeToolTip": "Shared\\View Models\\ProductTypeViewModel.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:42:23.407Z",
+              "WhenOpened": "2025-06-05T15:33:38.609Z",
               "EditorCaption": ""
             }
           ]
