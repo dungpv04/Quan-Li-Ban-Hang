@@ -23,7 +23,42 @@ namespace UI.ReportScreen
             _revenueReportService = revenueReportService;
         }
 
+        private async void RevenueReportScreen_Load(object sender, EventArgs e)
+        {
+            await UpdateDataGridView();
+        }
 
+        private async Task UpdateDataGridView()
+        {
+            var data = await _revenueReportService.GetAllRevenueAsync(null, null);
+            if (data != null && data.Any())
+            {
+                dgvResult.DataSource = data.ToList();
+
+                dgvResult.Columns["MaHoaDon"].HeaderText = "Mã hóa đơn";
+                dgvResult.Columns["NgayBan"].HeaderText = "Ngày bán";
+                dgvResult.Columns["TenNhanVien"].HeaderText = "Nhân viên";
+                dgvResult.Columns["TenKhach"].HeaderText = "Khách hàng";
+                dgvResult.Columns["TenHang"].HeaderText = "Tên hàng";
+                dgvResult.Columns["TenLoai"].HeaderText = "Loại hàng";
+                dgvResult.Columns["SoLuong"].HeaderText = "Số lượng";
+                dgvResult.Columns["DonGia"].HeaderText = "Đơn giá";
+                dgvResult.Columns["ThanhTien"].HeaderText = "Thành tiền";
+                dgvResult.Columns["TongTien"].HeaderText = "Tổng tiền";
+
+                dgvResult.Columns["DonGia"].DefaultCellStyle.Format = "N0";
+                dgvResult.Columns["ThanhTien"].DefaultCellStyle.Format = "N0";
+                dgvResult.Columns["TongTien"].DefaultCellStyle.Format = "N0";
+
+                dgvResult.Columns["NgayBan"].DefaultCellStyle.Format = "dd/MM/yyyy";
+
+                dgvResult.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+                dgvResult.Update();
+                dgvResult.Refresh();
+            }
+        }
+
+        //Thich giu lai nut Hien thi cung duoc
         private async Task UpdateDataGridView(IEnumerable<RevenueReportViewModel> data)
         {
             if (data != null && data.Any())

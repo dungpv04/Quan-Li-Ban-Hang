@@ -306,6 +306,7 @@
             Controls.Add(btnExit);
             Name = "RevenueReportScreen";
             Size = new Size(657, 600);
+            Load += RevenueReportScreen_Load;
             grpCriteria.ResumeLayout(false);
             grpCriteria.PerformLayout();
             grpInput.ResumeLayout(false);

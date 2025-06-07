@@ -15,8 +15,7 @@ namespace UI
     public partial class ProductTypeScreen : UserControl
     {
         private readonly IProductTypeService _productTypeService;
-        private string? selectedProductTypeId =>
-            dgvLoaiHang.CurrentRow?.Cells["MaLoai"].Value?.ToString();
+        private string? selectedProductTypeId => dgvLoaiHang.CurrentRow?.Cells["MaLoai"].Value?.ToString();
         public ProductTypeScreen(IProductTypeService productTypeService, IAbstractFactory abstractFactory)
         {
             InitializeComponent();
