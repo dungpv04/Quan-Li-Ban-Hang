@@ -135,7 +135,6 @@
             dgvSupplier.Size = new Size(650, 225);
             dgvSupplier.TabIndex = 9;
             dgvSupplier.CellClick += dgvSupplier_CellClick;
-            dgvSupplier.CellContentClick += dgvSupplier_CellContentClick;
             // 
             // btnAdd
             // 
@@ -229,6 +228,7 @@
             Margin = new Padding(3, 4, 3, 4);
             Name = "SupplierScreen";
             Size = new Size(720, 588);
+            Load += SupplierScreen_Load;
             ((System.ComponentModel.ISupportInitialize)dgvSupplier).EndInit();
             ResumeLayout(false);
             PerformLayout();

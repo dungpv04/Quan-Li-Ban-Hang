@@ -9,36 +9,60 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using Microsoft.Data.SqlClient;
+using Database.Models;
+using Services.IServices;
+using Shared.IFactory;
+using Services.Services;
+using Shared.View_Models;
+using System.ComponentModel.DataAnnotations;
+using System.Reflection;
 
 namespace UI
 {
 
     public partial class SupplierScreen : UserControl
     {
+        private readonly ISupplierService _supplierService;
+        private string? selectedSupplierId => dgvSupplier.CurrentRow?.Cells["MaNCC"].Value?.ToString();
 
-        public SupplierScreen()
+        public SupplierScreen(ISupplierService supplierService, IAbstractFactory abstractFactory)
         {
             InitializeComponent();
             this.AutoScroll = true;
-            LoadSuppliers();
+            _supplierService = supplierService;
+
         }
 
-        private void LoadSuppliers()
+        private async void SupplierScreen_Load(object sender, EventArgs e)
         {
-            string connectionString = "Server=DESKTOP-8U71636\\SQLEXPRESS;Database=store management;Trusted_Connection=True;TrustServerCertificate=True;";
-            string query = "SELECT MaNCC as [Mã NCC], TenNCC as [Tên NCC], DiaChi as [Địa chỉ], DienThoai as [Điện thoại] FROM NhaCungCaps";
+            await updateGridView();
+        }
 
-            using (SqlConnection connection = new SqlConnection(connectionString))
+        private async Task updateGridView()
+        {
+            var productTypes = await _supplierService.GetAllAsync();
+            if (productTypes != null && productTypes.Any())
             {
-                SqlDataAdapter adapter = new SqlDataAdapter(query, connection);
-                DataTable table = new DataTable();
-                adapter.Fill(table);
-                dgvSupplier.DataSource = table;
+                dgvSupplier.DataSource = productTypes.ToList();
+                foreach (DataGridViewColumn column in dgvSupplier.Columns)
+                {
+                    var prop = typeof(SupplierViewModel).GetProperty(column.DataPropertyName);
+                    if (prop != null)
+                    {
+                        var displayAttr = prop.GetCustomAttribute<DisplayAttribute>();
+                        if (displayAttr != null)
+                        {
+                            column.HeaderText = displayAttr.Name;
+                        }
+                    }
+                }
+                dgvSupplier.Update();
+                dgvSupplier.Refresh();
             }
         }
 
 
-        private void btnAdd_Click(object sender, EventArgs e)
+        private async void btnAdd_Click(object sender, EventArgs e)
         {
             var supplierId = txtSupplierId.Text.Trim();
             var supplierName = txtSupplierName.Text.Trim();
@@ -69,10 +93,23 @@ namespace UI
                 return;
             }
 
-        }
+            var isAdded = await _supplierService.AddIfNotExist(new NhaCungCap
+            {
+                MaNCC = supplierId,
+                TenNCC = supplierName,
+                DiaChi = address,
+                DienThoai = phoneNumber
+            });
 
-        private void dgvSupplier_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
+            if (isAdded)
+            {
+                await updateGridView();
+                MessageBox.Show("Thêm nhà cung cấp thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else
+            {
+                MessageBox.Show("Thêm nhà cung cấp thất bại! Vui lòng kiểm tra lại thông tin.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
 
         }
 
@@ -80,14 +117,14 @@ namespace UI
         {
             DataGridViewRow row = dgvSupplier.Rows[e.RowIndex];
 
-            txtSupplierId.Text = row.Cells["Mã NCC"].Value?.ToString();
-            txtSupplierName.Text = row.Cells["Tên NCC"].Value?.ToString();
-            txtAddress.Text = row.Cells["Địa chỉ"].Value?.ToString();
-            txtPhone.Text = row.Cells["Điện thoại"].Value?.ToString();
+            txtSupplierId.Text = row.Cells["MaNCC"].Value?.ToString();
+            txtSupplierName.Text = row.Cells["TenNCC"].Value?.ToString();
+            txtAddress.Text = row.Cells["DiaChi"].Value?.ToString();
+            txtPhone.Text = row.Cells["DienThoai"].Value?.ToString();
 
         }
 
-        private void btnEdit_Click(object sender, EventArgs e)
+        private async void btnEdit_Click(object sender, EventArgs e)
         {
             var supplierId = txtSupplierId.Text.Trim();
             var supplierName = txtSupplierName.Text.Trim();
@@ -117,11 +154,52 @@ namespace UI
                 MessageBox.Show("Số điện thoại phải bắt đầu bằng số 0.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
+
+            if (selectedSupplierId != null)
+            {
+
+                var task = await _supplierService.UpdateAsync(new NhaCungCap
+                {
+                    MaNCC = supplierId,
+                    TenNCC = supplierName,
+                    DiaChi = address,
+                    DienThoai = phoneNumber
+                }, selectedSupplierId);
+                if (task)
+                {
+                    await updateGridView();
+                    MessageBox.Show("Sửa nhà cung cấp thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                else
+                {
+                    MessageBox.Show("Sửa nhà cung cấp thất bại! Vui lòng kiểm tra lại thông tin.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+            else
+            {
+                MessageBox.Show("Vui lòng chọn nhà cung cấp cần sửa!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
         }
 
-        private void btnDelete_Click(object sender, EventArgs e)
+        private async void btnDelete_Click(object sender, EventArgs e)
         {
-            var supplierId = txtSupplierId.Text.Trim();
+            if (selectedSupplierId != null)
+            {
+                var task = await _supplierService.DeleteAsync(selectedSupplierId);
+                if (task)
+                {
+                    await updateGridView();
+                    MessageBox.Show("Xóa nhà cung cấp thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                else
+                {
+                    MessageBox.Show("Xóa nhà cung cấp thất bại! Vui lòng kiểm tra lại thông tin.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+            else
+            {
+                MessageBox.Show("Vui lòng chọn nhà cung cấp cần xóa!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
         }
     }
 }

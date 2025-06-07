@@ -32,8 +32,6 @@ namespace Services.Services
             return await _repository.AddAsync(entity);
         }
 
-        
-
         public async Task<bool> DeleteAsync(object id)
         {
             return await _repository.DeleteAsync(id);
