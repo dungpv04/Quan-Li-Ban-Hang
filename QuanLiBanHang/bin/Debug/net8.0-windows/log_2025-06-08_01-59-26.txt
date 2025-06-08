@@ -1,0 +1,4 @@
+[2025-06-08 01:59:26] [INFO] Successfully fetched all entities of type LoaiHang. Count: 5
+[2025-06-08 01:59:26] [DEBUG] Fetched 5 entities of type LoaiHang.
+[2025-06-08 01:59:32] [ERROR] Error deleting entity of type LoaiHang with id=af093440-8342-f7d5-00f8-9d2721d5acf9: An error occurred while saving the entity changes. See the inner exception for details.
+[2025-06-08 01:59:39] [ERROR] Error deleting entity of type LoaiHang with id=af093440-8342-f7d5-00f8-9d2721d5acf9: An error occurred while saving the entity changes. See the inner exception for details.

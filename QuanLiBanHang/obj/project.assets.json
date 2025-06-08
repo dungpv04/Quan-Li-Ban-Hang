@@ -5093,23 +5093,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vandu\\.nuget\\packages\\": {},
+    "C:\\Users\\huy\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\cs\\QuanLiBanHang\\QuanLiBanHang\\UI.csproj",
+      "projectUniqueName": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\QuanLiBanHang\\UI.csproj",
       "projectName": "UI",
-      "projectPath": "D:\\cs\\QuanLiBanHang\\QuanLiBanHang\\UI.csproj",
-      "packagesPath": "C:\\Users\\vandu\\.nuget\\packages\\",
-      "outputPath": "D:\\cs\\QuanLiBanHang\\QuanLiBanHang\\obj\\",
+      "projectPath": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\QuanLiBanHang\\UI.csproj",
+      "packagesPath": "C:\\Users\\huy\\.nuget\\packages\\",
+      "outputPath": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\QuanLiBanHang\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\vandu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\huy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5118,20 +5118,21 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\cs\\QuanLiBanHang\\Database\\Database.csproj": {
-              "projectPath": "D:\\cs\\QuanLiBanHang\\Database\\Database.csproj"
+            "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\Database.csproj": {
+              "projectPath": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\Database.csproj"
             },
-            "D:\\cs\\QuanLiBanHang\\Services\\Services.csproj": {
-              "projectPath": "D:\\cs\\QuanLiBanHang\\Services\\Services.csproj"
+            "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Services\\Services.csproj": {
+              "projectPath": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Services\\Services.csproj"
             },
-            "D:\\cs\\QuanLiBanHang\\Shared\\Shared.csproj": {
-              "projectPath": "D:\\cs\\QuanLiBanHang\\Shared\\Shared.csproj"
+            "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Shared\\Shared.csproj": {
+              "projectPath": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Shared\\Shared.csproj"
             }
           }
         }

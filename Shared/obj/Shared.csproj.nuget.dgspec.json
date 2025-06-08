@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cs\\QuanLiBanHang\\Shared\\Shared.csproj": {}
+    "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "D:\\cs\\QuanLiBanHang\\Database\\Database.csproj": {
+    "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cs\\QuanLiBanHang\\Database\\Database.csproj",
+        "projectUniqueName": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\Database.csproj",
         "projectName": "Database",
-        "projectPath": "D:\\cs\\QuanLiBanHang\\Database\\Database.csproj",
-        "packagesPath": "C:\\Users\\vandu\\.nuget\\packages\\",
-        "outputPath": "D:\\cs\\QuanLiBanHang\\Database\\obj\\",
+        "projectPath": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\Database.csproj",
+        "packagesPath": "C:\\Users\\huy\\.nuget\\packages\\",
+        "outputPath": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vandu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\huy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\cs\\QuanLiBanHang\\Logger\\Logger.csproj": {
-                "projectPath": "D:\\cs\\QuanLiBanHang\\Logger\\Logger.csproj"
+              "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Logger\\Logger.csproj": {
+                "projectPath": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Logger\\Logger.csproj"
               }
             }
           }
@@ -97,20 +98,20 @@
         }
       }
     },
-    "D:\\cs\\QuanLiBanHang\\Logger\\Logger.csproj": {
+    "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Logger\\Logger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cs\\QuanLiBanHang\\Logger\\Logger.csproj",
+        "projectUniqueName": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Logger\\Logger.csproj",
         "projectName": "Logger",
-        "projectPath": "D:\\cs\\QuanLiBanHang\\Logger\\Logger.csproj",
-        "packagesPath": "C:\\Users\\vandu\\.nuget\\packages\\",
-        "outputPath": "D:\\cs\\QuanLiBanHang\\Logger\\obj\\",
+        "projectPath": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Logger\\Logger.csproj",
+        "packagesPath": "C:\\Users\\huy\\.nuget\\packages\\",
+        "outputPath": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Logger\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vandu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\huy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -119,6 +120,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -162,20 +164,20 @@
         }
       }
     },
-    "D:\\cs\\QuanLiBanHang\\Shared\\Shared.csproj": {
+    "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cs\\QuanLiBanHang\\Shared\\Shared.csproj",
+        "projectUniqueName": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "D:\\cs\\QuanLiBanHang\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\vandu\\.nuget\\packages\\",
-        "outputPath": "D:\\cs\\QuanLiBanHang\\Shared\\obj\\",
+        "projectPath": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\huy\\.nuget\\packages\\",
+        "outputPath": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vandu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\huy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -184,14 +186,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\cs\\QuanLiBanHang\\Database\\Database.csproj": {
-                "projectPath": "D:\\cs\\QuanLiBanHang\\Database\\Database.csproj"
+              "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\Database.csproj": {
+                "projectPath": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\Database.csproj"
               }
             }
           }

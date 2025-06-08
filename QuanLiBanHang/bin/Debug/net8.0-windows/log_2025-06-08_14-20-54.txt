@@ -1,0 +1,7 @@
+[2025-06-08 14:20:54] [INFO] Successfully fetched all entities of type LoaiHang. Count: 5
+[2025-06-08 14:20:54] [DEBUG] Fetched 5 entities of type LoaiHang.
+[2025-06-08 14:21:23] [INFO] Added new entity of type LoaiHang.
+[2025-06-08 14:21:23] [INFO] Successfully fetched all entities of type LoaiHang. Count: 6
+[2025-06-08 14:21:23] [DEBUG] Fetched 6 entities of type LoaiHang.
+[2025-06-08 14:21:48] [INFO] Successfully fetched all entities of type LoaiHang. Count: 6
+[2025-06-08 14:21:48] [DEBUG] Fetched 6 entities of type LoaiHang.

@@ -176,3 +176,537 @@ D:\cs\QuanLiBanHang\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.exe
 D:\cs\QuanLiBanHang\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.dll
 D:\cs\QuanLiBanHang\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.pdb
 D:\cs\QuanLiBanHang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.sourcelink.json
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\appsettings.json
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Database.deps.json
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Database.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Logger.deps.json
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Logger.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Logger.exe
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Database.exe
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Services.deps.json
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Services.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.deps.json
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.exe
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Services.exe
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\UI.exe
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\UI.deps.json
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\UI.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\UI.pdb
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Azure.Core.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Azure.Identity.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Humanizer.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\System.ClientModel.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\System.Memory.Data.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\System.Text.Json.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Database.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Logger.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Services.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Database.pdb
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Services.pdb
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.pdb
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\bin\Debug\net8.0-windows\Logger.pdb
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.BrandScreen.resources
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.CustomerScreen.resources
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.EmployeeScreen.resources
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.ProductScreen.resources
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.ProductTypeScreen.resources
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.SupplierScreen.resources
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.InvoiceScreen.ExportInvoiceScreen.resources
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.InvoiceScreen.ImportInvoiceScreen.resources
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\QuanLiBanHang.MainForm.resources
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.sourcelink.json
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.csproj.Up2Date
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\refint\UI.dll
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.pdb
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+B:\Codes\TienTien\CuoiKi\QuanLiBanHang\obj\Debug\net8.0-windows\ref\UI.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\appsettings.json
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Database.deps.json
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Database.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Logger.deps.json
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Logger.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Logger.exe
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Database.exe
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Services.deps.json
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Services.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.deps.json
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.exe
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Services.exe
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\UI.exe
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\UI.deps.json
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\UI.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\UI.pdb
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Azure.Core.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Azure.Identity.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Humanizer.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\System.ClientModel.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\System.Memory.Data.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\System.Text.Json.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Database.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Logger.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Services.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Database.pdb
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Services.pdb
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.pdb
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\bin\Debug\net8.0-windows\Logger.pdb
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.BrandScreen.resources
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.CustomerScreen.resources
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.EmployeeScreen.resources
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.ProductScreen.resources
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.ProductTypeScreen.resources
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.SupplierScreen.resources
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.InvoiceScreen.ExportInvoiceScreen.resources
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.InvoiceScreen.ImportInvoiceScreen.resources
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\QuanLiBanHang.MainForm.resources
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.sourcelink.json
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.csproj.Up2Date
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\refint\UI.dll
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.pdb
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+B:\Codes\TienTien\CuoiKi - Copy\QuanLiBanHang\obj\Debug\net8.0-windows\ref\UI.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\appsettings.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Database.deps.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Database.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Logger.deps.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Logger.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Logger.exe
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Database.exe
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Services.deps.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Services.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.deps.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.exe
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Services.exe
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\UI.exe
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\UI.deps.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\UI.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\UI.pdb
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Azure.Core.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Azure.Identity.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Humanizer.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\System.ClientModel.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\System.Memory.Data.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\System.Text.Json.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Database.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Logger.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Services.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Database.pdb
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Services.pdb
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Shared.pdb
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\bin\Debug\net8.0-windows\Logger.pdb
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.BrandScreen.resources
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.CustomerScreen.resources
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.EmployeeScreen.resources
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.ProductScreen.resources
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.ProductTypeScreen.resources
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.SupplierScreen.resources
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.InvoiceScreen.ExportInvoiceScreen.resources
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.InvoiceScreen.ImportInvoiceScreen.resources
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\QuanLiBanHang.MainForm.resources
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.sourcelink.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.csproj.Up2Date
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\refint\UI.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.pdb
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+B:\Codes\TienTien\CuoiKi -XongChucNang\QuanLiBanHang\obj\Debug\net8.0-windows\ref\UI.dll

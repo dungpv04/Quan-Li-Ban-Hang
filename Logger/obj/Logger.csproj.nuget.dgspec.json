@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cs\\QuanLiBanHang\\Logger\\Logger.csproj": {}
+    "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Logger\\Logger.csproj": {}
   },
   "projects": {
-    "D:\\cs\\QuanLiBanHang\\Logger\\Logger.csproj": {
+    "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Logger\\Logger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cs\\QuanLiBanHang\\Logger\\Logger.csproj",
+        "projectUniqueName": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Logger\\Logger.csproj",
         "projectName": "Logger",
-        "projectPath": "D:\\cs\\QuanLiBanHang\\Logger\\Logger.csproj",
-        "packagesPath": "C:\\Users\\vandu\\.nuget\\packages\\",
-        "outputPath": "D:\\cs\\QuanLiBanHang\\Logger\\obj\\",
+        "projectPath": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Logger\\Logger.csproj",
+        "packagesPath": "C:\\Users\\huy\\.nuget\\packages\\",
+        "outputPath": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Logger\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vandu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\huy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

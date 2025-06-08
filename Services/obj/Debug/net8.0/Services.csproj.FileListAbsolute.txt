@@ -90,3 +90,282 @@ D:\cs\QuanLiBanHang\Services\bin\Debug\net8.0\Shared.runtimeconfig.json
 D:\cs\QuanLiBanHang\Services\bin\Debug\net8.0\Shared.exe
 D:\cs\QuanLiBanHang\Services\bin\Debug\net8.0\Shared.dll
 D:\cs\QuanLiBanHang\Services\bin\Debug\net8.0\Shared.pdb
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\appsettings.json
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Database.deps.json
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Database.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Logger.deps.json
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Logger.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Logger.exe
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Database.exe
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Shared.deps.json
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Shared.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Shared.exe
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Services.exe
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Services.deps.json
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Services.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Services.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Services.pdb
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Azure.Core.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Azure.Identity.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\System.ClientModel.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\System.Drawing.Common.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\System.Formats.Asn1.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\System.IO.Pipelines.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\System.Memory.Data.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\System.Runtime.Caching.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\System.Security.Permissions.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\System.Text.Json.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\System.Windows.Extensions.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Database.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Logger.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Shared.dll
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Database.pdb
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Logger.pdb
+B:\Codes\TienTien\CuoiKi\Services\bin\Debug\net8.0\Shared.pdb
+B:\Codes\TienTien\CuoiKi\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+B:\Codes\TienTien\CuoiKi\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+B:\Codes\TienTien\CuoiKi\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+B:\Codes\TienTien\CuoiKi\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+B:\Codes\TienTien\CuoiKi\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+B:\Codes\TienTien\CuoiKi\Services\obj\Debug\net8.0\Services.sourcelink.json
+B:\Codes\TienTien\CuoiKi\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+B:\Codes\TienTien\CuoiKi\Services\obj\Debug\net8.0\Services.dll
+B:\Codes\TienTien\CuoiKi\Services\obj\Debug\net8.0\refint\Services.dll
+B:\Codes\TienTien\CuoiKi\Services\obj\Debug\net8.0\Services.pdb
+B:\Codes\TienTien\CuoiKi\Services\obj\Debug\net8.0\Services.genruntimeconfig.cache
+B:\Codes\TienTien\CuoiKi\Services\obj\Debug\net8.0\ref\Services.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\appsettings.json
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Database.deps.json
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Database.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Logger.deps.json
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Logger.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Logger.exe
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Database.exe
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Shared.deps.json
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Shared.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Shared.exe
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Services.exe
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Services.deps.json
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Services.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Services.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Services.pdb
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Azure.Core.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Azure.Identity.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\System.ClientModel.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\System.Drawing.Common.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\System.Formats.Asn1.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\System.IO.Pipelines.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\System.Memory.Data.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\System.Runtime.Caching.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\System.Security.Permissions.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\System.Text.Json.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\System.Windows.Extensions.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Database.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Logger.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Shared.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Database.pdb
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Logger.pdb
+B:\Codes\TienTien\CuoiKi - Copy\Services\bin\Debug\net8.0\Shared.pdb
+B:\Codes\TienTien\CuoiKi - Copy\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+B:\Codes\TienTien\CuoiKi - Copy\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+B:\Codes\TienTien\CuoiKi - Copy\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+B:\Codes\TienTien\CuoiKi - Copy\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+B:\Codes\TienTien\CuoiKi - Copy\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+B:\Codes\TienTien\CuoiKi - Copy\Services\obj\Debug\net8.0\Services.sourcelink.json
+B:\Codes\TienTien\CuoiKi - Copy\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+B:\Codes\TienTien\CuoiKi - Copy\Services\obj\Debug\net8.0\Services.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\obj\Debug\net8.0\refint\Services.dll
+B:\Codes\TienTien\CuoiKi - Copy\Services\obj\Debug\net8.0\Services.pdb
+B:\Codes\TienTien\CuoiKi - Copy\Services\obj\Debug\net8.0\Services.genruntimeconfig.cache
+B:\Codes\TienTien\CuoiKi - Copy\Services\obj\Debug\net8.0\ref\Services.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\appsettings.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Database.deps.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Database.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Logger.deps.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Logger.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Logger.exe
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Database.exe
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Shared.deps.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Shared.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Shared.exe
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Services.exe
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Services.deps.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Services.runtimeconfig.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Services.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Services.pdb
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Azure.Core.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Azure.Identity.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\System.ClientModel.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\System.Drawing.Common.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\System.Formats.Asn1.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\System.IO.Pipelines.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\System.Memory.Data.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\System.Runtime.Caching.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\System.Security.Permissions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\System.Text.Json.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\System.Windows.Extensions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Database.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Logger.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Shared.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Database.pdb
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Logger.pdb
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\bin\Debug\net8.0\Shared.pdb
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\obj\Debug\net8.0\Services.sourcelink.json
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\obj\Debug\net8.0\Services.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\obj\Debug\net8.0\refint\Services.dll
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\obj\Debug\net8.0\Services.pdb
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\obj\Debug\net8.0\Services.genruntimeconfig.cache
+B:\Codes\TienTien\CuoiKi -XongChucNang\Services\obj\Debug\net8.0\ref\Services.dll

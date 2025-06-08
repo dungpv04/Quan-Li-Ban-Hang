@@ -1,10 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\cs\\QuanLiBanHang\\",
+  "WorkspaceRootPath": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA4A43DE-4203-43C9-B1CA-7BD8ECB6175D}|Shared\\Shared.csproj|d:\\cs\\quanlibanhang\\shared\\view models\\producttypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA4A43DE-4203-43C9-B1CA-7BD8ECB6175D}|Shared\\Shared.csproj|solutionrelative:shared\\view models\\producttypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|b:\\codes\\tientien\\cuoiki -xongchucnang\\quanlibanhang\\catalogscreen\\employeescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|solutionrelative:quanlibanhang\\catalogscreen\\employeescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|b:\\codes\\tientien\\cuoiki -xongchucnang\\database\\models\\hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|solutionrelative:database\\models\\hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|b:\\codes\\tientien\\cuoiki -xongchucnang\\database\\irepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|solutionrelative:database\\irepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|b:\\codes\\tientien\\cuoiki -xongchucnang\\database\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|solutionrelative:database\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|b:\\codes\\tientien\\cuoiki -xongchucnang\\quanlibanhang\\catalogscreen\\productscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|solutionrelative:quanlibanhang\\catalogscreen\\productscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\quanlibanhang\\catalogscreen\\productscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|solutionrelative:quanlibanhang\\catalogscreen\\productscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|b:\\codes\\tientien\\cuoiki -xongchucnang\\quanlibanhang\\catalogscreen\\employeescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|solutionrelative:quanlibanhang\\catalogscreen\\employeescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|b:\\codes\\tientien\\cuoiki -xongchucnang\\quanlibanhang\\catalogscreen\\productscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48297682-26D8-46BD-85C8-54BCCC7622A9}|QuanLiBanHang\\UI.csproj|solutionrelative:quanlibanhang\\catalogscreen\\productscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|b:\\codes\\tientien\\cuoiki -xongchucnang\\database\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|solutionrelative:database\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E33871-2364-4562-B367-1BE5955D823E}|Services\\Services.csproj|b:\\codes\\tientien\\cuoiki -xongchucnang\\services\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E33871-2364-4562-B367-1BE5955D823E}|Services\\Services.csproj|solutionrelative:services\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E33871-2364-4562-B367-1BE5955D823E}|Services\\Services.csproj|b:\\codes\\tientien\\cuoiki -xongchucnang\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E33871-2364-4562-B367-1BE5955D823E}|Services\\Services.csproj|solutionrelative:services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4A43DE-4203-43C9-B1CA-7BD8ECB6175D}|Shared\\Shared.csproj|b:\\codes\\tientien\\cuoiki -xongchucnang\\shared\\factory\\viewmodelabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4A43DE-4203-43C9-B1CA-7BD8ECB6175D}|Shared\\Shared.csproj|solutionrelative:shared\\factory\\viewmodelabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4A43DE-4203-43C9-B1CA-7BD8ECB6175D}|Shared\\Shared.csproj|b:\\codes\\tientien\\cuoiki -xongchucnang\\shared\\ifactory\\iabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4A43DE-4203-43C9-B1CA-7BD8ECB6175D}|Shared\\Shared.csproj|solutionrelative:shared\\ifactory\\iabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E33871-2364-4562-B367-1BE5955D823E}|Services\\Services.csproj|b:\\codes\\tientien\\cuoiki -xongchucnang\\services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E33871-2364-4562-B367-1BE5955D823E}|Services\\Services.csproj|solutionrelative:services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|b:\\codes\\tientien\\cuoiki -xongchucnang\\database\\databasedependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|solutionrelative:database\\databasedependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|b:\\codes\\tientien\\cuoiki -xongchucnang\\database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE8F79-9D6A-49C9-904D-03283942D90D}|Database\\Database.csproj|solutionrelative:database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +74,205 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductTypeViewModel.cs",
-              "DocumentMoniker": "D:\\cs\\QuanLiBanHang\\Shared\\View Models\\ProductTypeViewModel.cs",
-              "RelativeDocumentMoniker": "Shared\\View Models\\ProductTypeViewModel.cs",
-              "ToolTip": "D:\\cs\\QuanLiBanHang\\Shared\\View Models\\ProductTypeViewModel.cs",
-              "RelativeToolTip": "Shared\\View Models\\ProductTypeViewModel.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ProductScreen.Designer.cs",
+              "DocumentMoniker": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\QuanLiBanHang\\CatalogScreen\\ProductScreen.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLiBanHang\\CatalogScreen\\ProductScreen.Designer.cs",
+              "ToolTip": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\QuanLiBanHang\\CatalogScreen\\ProductScreen.Designer.cs",
+              "RelativeToolTip": "QuanLiBanHang\\CatalogScreen\\ProductScreen.Designer.cs",
+              "ViewState": "AgIAABYBAAAAAAAAAAAswCwBAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:42:23.407Z",
+              "WhenOpened": "2025-06-08T09:12:49.694Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeScreen.cs [Design]",
+              "DocumentMoniker": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\QuanLiBanHang\\CatalogScreen\\EmployeeScreen.cs",
+              "RelativeDocumentMoniker": "QuanLiBanHang\\CatalogScreen\\EmployeeScreen.cs",
+              "ToolTip": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\QuanLiBanHang\\CatalogScreen\\EmployeeScreen.cs [Design]",
+              "RelativeToolTip": "QuanLiBanHang\\CatalogScreen\\EmployeeScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:11:50.686Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Database\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Database\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:03:06.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\Program.cs",
+              "RelativeDocumentMoniker": "Database\\Program.cs",
+              "ToolTip": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\Program.cs",
+              "RelativeToolTip": "Database\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:45:26.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\IRepositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Database\\IRepositories\\IProductRepository.cs",
+              "ToolTip": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\IRepositories\\IProductRepository.cs",
+              "RelativeToolTip": "Database\\IRepositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:39:05.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hang.cs",
+              "DocumentMoniker": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\Models\\Hang.cs",
+              "RelativeDocumentMoniker": "Database\\Models\\Hang.cs",
+              "ToolTip": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\Models\\Hang.cs",
+              "RelativeToolTip": "Database\\Models\\Hang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:38:57.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductScreen.cs [Design]",
+              "DocumentMoniker": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\QuanLiBanHang\\CatalogScreen\\ProductScreen.cs",
+              "RelativeDocumentMoniker": "QuanLiBanHang\\CatalogScreen\\ProductScreen.cs",
+              "ToolTip": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\QuanLiBanHang\\CatalogScreen\\ProductScreen.cs [Design]",
+              "RelativeToolTip": "QuanLiBanHang\\CatalogScreen\\ProductScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:45:52.295Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatabaseDependency.cs",
+              "DocumentMoniker": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\DatabaseDependency.cs",
+              "RelativeDocumentMoniker": "Database\\DatabaseDependency.cs",
+              "ToolTip": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\DatabaseDependency.cs",
+              "RelativeToolTip": "Database\\DatabaseDependency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:45:26.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Services\\IServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\IProductService.cs",
+              "ToolTip": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Services\\IServices\\IProductService.cs",
+              "RelativeToolTip": "Services\\IServices\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:45:30.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeScreen.cs",
+              "DocumentMoniker": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\QuanLiBanHang\\CatalogScreen\\EmployeeScreen.cs",
+              "RelativeDocumentMoniker": "QuanLiBanHang\\CatalogScreen\\EmployeeScreen.cs",
+              "ToolTip": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\QuanLiBanHang\\CatalogScreen\\EmployeeScreen.cs",
+              "RelativeToolTip": "QuanLiBanHang\\CatalogScreen\\EmployeeScreen.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:01:09.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Database\\Repositories\\ProductRepository.cs",
+              "ToolTip": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Database\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Database\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwD4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:33:00.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductScreen.cs",
+              "DocumentMoniker": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\QuanLiBanHang\\CatalogScreen\\ProductScreen.cs",
+              "RelativeDocumentMoniker": "QuanLiBanHang\\CatalogScreen\\ProductScreen.cs",
+              "ToolTip": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\QuanLiBanHang\\CatalogScreen\\ProductScreen.cs",
+              "RelativeToolTip": "QuanLiBanHang\\CatalogScreen\\ProductScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T07:11:40.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Services\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\ProductService.cs",
+              "ToolTip": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Services\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\Services\\ProductService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwEEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:45:31.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Services\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Program.cs",
+              "ToolTip": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Services\\Program.cs",
+              "RelativeToolTip": "Services\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:45:32.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAbstractFactory.cs",
+              "DocumentMoniker": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Shared\\IFactory\\IAbstractFactory.cs",
+              "RelativeDocumentMoniker": "Shared\\IFactory\\IAbstractFactory.cs",
+              "ToolTip": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Shared\\IFactory\\IAbstractFactory.cs",
+              "RelativeToolTip": "Shared\\IFactory\\IAbstractFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:45:35.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewModelAbstractFactory.cs",
+              "DocumentMoniker": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Shared\\Factory\\ViewModelAbstractFactory.cs",
+              "RelativeDocumentMoniker": "Shared\\Factory\\ViewModelAbstractFactory.cs",
+              "ToolTip": "B:\\Codes\\TienTien\\CuoiKi -XongChucNang\\Shared\\Factory\\ViewModelAbstractFactory.cs",
+              "RelativeToolTip": "Shared\\Factory\\ViewModelAbstractFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:45:36.48Z"
             }
           ]
         }
