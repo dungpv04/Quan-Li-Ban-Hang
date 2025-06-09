@@ -23,4 +23,4 @@ obj/
 *.log
 
 #Ignore connection string
-/Database/appsettings.json
+Database/appsettings.json
