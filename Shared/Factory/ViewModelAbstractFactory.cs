@@ -73,5 +73,23 @@ namespace Shared.Factory
                 GhiChu = entity.GhiChu
             };
         }
+
+        public RevenueReportViewModel createRevenueReportViewModel(HoaDonBan hoaDonBan, ChiTietHDBan chiTiet, Hang hang, LoaiHang loaiHang, NhanVien nhanVien, Khach khach)
+        {
+            return new RevenueReportViewModel
+            {
+                MaHoaDon = hoaDonBan.MaHDBan,
+                NgayBan = hoaDonBan.NgayBan ?? DateTime.MinValue,
+                TenNhanVien = nhanVien.TenNhanVien,
+                TenKhach = khach.TenKhach,
+                TenHang = hang.TenHang,
+                TenLoai = loaiHang.TenLoai,
+                SoLuong = chiTiet.SoLuong,
+                DonGia = chiTiet.DonGia,
+                ThanhTien = chiTiet.ThanhTien,
+                TongTien = hoaDonBan.TongTien
+            };
+        }
+
     }
 }

@@ -15,6 +15,7 @@ public static class DatabaseDependency
         services.AddScoped<IEmployeeRepository, EmployeeRepository>();
         services.AddScoped<IProductRepository, ProductRepository>();
 
+        services.AddScoped<IRevenueReportRepository, RevenueReportRepository>();
         services.AddDbContext<AppDbContext>();
         return services;
     }

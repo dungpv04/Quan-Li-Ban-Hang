@@ -17,253 +17,305 @@
 
         private void InitializeComponent()
         {
-            this.lblTitle = new System.Windows.Forms.Label();
-
-            // GroupBox cho tiêu chí thống kê
-            this.grpCriteria = new System.Windows.Forms.GroupBox();
-            this.rdoProduct = new System.Windows.Forms.RadioButton();
-            this.rdoCategory = new System.Windows.Forms.RadioButton();
-            this.rdoEmployee = new System.Windows.Forms.RadioButton();
-
-            // GroupBox cho nhập tiêu chí
-            this.grpInput = new System.Windows.Forms.GroupBox();
-            this.lblProductId = new System.Windows.Forms.Label();
-            this.txtProductId = new System.Windows.Forms.TextBox();
-            this.lblCategoryId = new System.Windows.Forms.Label();
-            this.txtCategoryId = new System.Windows.Forms.TextBox();
-            this.lblEmployeeId = new System.Windows.Forms.Label();
-            this.txtEmployeeId = new System.Windows.Forms.TextBox();
-
-            // GroupBox cho khoảng thời gian
-            this.grpTime = new System.Windows.Forms.GroupBox();
-            this.rdoByDay = new System.Windows.Forms.RadioButton();
-            this.dtpByDay = new System.Windows.Forms.DateTimePicker();
-            this.rdoByRange = new System.Windows.Forms.RadioButton();
-            this.dtpFromDate = new System.Windows.Forms.DateTimePicker();
-            this.dtpToDate = new System.Windows.Forms.DateTimePicker();
-            this.lblFrom = new System.Windows.Forms.Label();
-            this.lblTo = new System.Windows.Forms.Label();
-
-            // DataGridView kết quả
-            this.dgvResult = new System.Windows.Forms.DataGridView();
-
-            // Nút chức năng
-            this.btnSearch = new System.Windows.Forms.Button();
-            this.btnShow = new System.Windows.Forms.Button();
-            this.btnCancel = new System.Windows.Forms.Button();
-            this.btnExit = new System.Windows.Forms.Button();
-
-            // Label
-            this.lblTitle.AutoSize = true;
-            this.lblTitle.Font = new System.Drawing.Font("Arial", 24F, System.Drawing.FontStyle.Bold);
-            this.lblTitle.ForeColor = System.Drawing.Color.DodgerBlue;
-            this.lblTitle.Location = new System.Drawing.Point(110, 30);
-            this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Size = new System.Drawing.Size(420, 46);
-            this.lblTitle.TabIndex = 0;
-            this.lblTitle.Text = "BÁO CÁO DOANH THU";
-
+            lblTitle = new Label();
+            grpCriteria = new GroupBox();
+            rdoProduct = new RadioButton();
+            rdoCategory = new RadioButton();
+            rdoEmployee = new RadioButton();
+            grpInput = new GroupBox();
+            lblProductId = new Label();
+            txtProductId = new TextBox();
+            lblCategoryId = new Label();
+            txtCategoryId = new TextBox();
+            lblEmployeeId = new Label();
+            txtEmployeeId = new TextBox();
+            grpTime = new GroupBox();
+            rdoByDay = new RadioButton();
+            dtpByDay = new DateTimePicker();
+            rdoByRange = new RadioButton();
+            dtpFromDate = new DateTimePicker();
+            lblFrom = new Label();
+            dtpToDate = new DateTimePicker();
+            lblTo = new Label();
+            dgvResult = new DataGridView();
+            btnSearch = new Button();
+            btnShow = new Button();
+            btnCancel = new Button();
+            btnExit = new Button();
+            grpCriteria.SuspendLayout();
+            grpInput.SuspendLayout();
+            grpTime.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)dgvResult).BeginInit();
+            SuspendLayout();
+            // 
+            // lblTitle
+            // 
+            lblTitle.AutoSize = true;
+            lblTitle.Font = new Font("Arial", 24F, FontStyle.Bold);
+            lblTitle.ForeColor = Color.DodgerBlue;
+            lblTitle.Location = new Point(110, 30);
+            lblTitle.Name = "lblTitle";
+            lblTitle.Size = new Size(458, 46);
+            lblTitle.TabIndex = 0;
+            lblTitle.Text = "BÁO CÁO DOANH THU";
+            // 
             // grpCriteria
-            this.grpCriteria.Controls.Add(this.rdoProduct);
-            this.grpCriteria.Controls.Add(this.rdoCategory);
-            this.grpCriteria.Controls.Add(this.rdoEmployee);
-            this.grpCriteria.Font = new System.Drawing.Font("Arial", 10F);
-            this.grpCriteria.Location = new System.Drawing.Point(48, 96);
-            this.grpCriteria.Name = "grpCriteria";
-            this.grpCriteria.Size = new System.Drawing.Size(225, 117);
-            this.grpCriteria.TabIndex = 1;
-            this.grpCriteria.TabStop = false;
-            this.grpCriteria.Text = "Chọn tiêu chí thống kê";
-
+            // 
+            grpCriteria.Controls.Add(rdoProduct);
+            grpCriteria.Controls.Add(rdoCategory);
+            grpCriteria.Controls.Add(rdoEmployee);
+            grpCriteria.Font = new Font("Arial", 10F);
+            grpCriteria.Location = new Point(48, 96);
+            grpCriteria.Name = "grpCriteria";
+            grpCriteria.Size = new Size(225, 117);
+            grpCriteria.TabIndex = 1;
+            grpCriteria.TabStop = false;
+            grpCriteria.Text = "Chọn tiêu chí thống kê";
+            // 
             // rdoProduct
-            this.rdoProduct.AutoSize = true;
-            this.rdoProduct.Location = new System.Drawing.Point(18, 30);
-            this.rdoProduct.Name = "rdoProduct";
-            this.rdoProduct.Size = new System.Drawing.Size(94, 23);
-            this.rdoProduct.TabIndex = 2;
-            this.rdoProduct.TabStop = true;
-            this.rdoProduct.Text = "Hàng hóa";
-            this.rdoProduct.UseVisualStyleBackColor = true;
-
+            // 
+            rdoProduct.AutoSize = true;
+            rdoProduct.Location = new Point(18, 30);
+            rdoProduct.Name = "rdoProduct";
+            rdoProduct.Size = new Size(100, 23);
+            rdoProduct.TabIndex = 2;
+            rdoProduct.TabStop = true;
+            rdoProduct.Text = "Hàng hóa";
+            rdoProduct.UseVisualStyleBackColor = true;
+            // 
             // rdoCategory
-            this.rdoCategory.AutoSize = true;
-            this.rdoCategory.Location = new System.Drawing.Point(18, 59);
-            this.rdoCategory.Name = "rdoCategory";
-            this.rdoCategory.Size = new System.Drawing.Size(97, 23);
-            this.rdoCategory.TabIndex = 3;
-            this.rdoCategory.Text = "Loại hàng";
-            this.rdoCategory.UseVisualStyleBackColor = true;
-
+            // 
+            rdoCategory.AutoSize = true;
+            rdoCategory.Location = new Point(18, 59);
+            rdoCategory.Name = "rdoCategory";
+            rdoCategory.Size = new Size(102, 23);
+            rdoCategory.TabIndex = 3;
+            rdoCategory.Text = "Loại hàng";
+            rdoCategory.UseVisualStyleBackColor = true;
+            // 
             // rdoEmployee
-            this.rdoEmployee.AutoSize = true;
-            this.rdoEmployee.Location = new System.Drawing.Point(18, 88);
-            this.rdoEmployee.Name = "rdoEmployee";
-            this.rdoEmployee.Size = new System.Drawing.Size(85, 23);
-            this.rdoEmployee.TabIndex = 4;
-            this.rdoEmployee.Text = "Nhân sự";
-            this.rdoEmployee.UseVisualStyleBackColor = true;
-
+            // 
+            rdoEmployee.AutoSize = true;
+            rdoEmployee.Location = new Point(18, 88);
+            rdoEmployee.Name = "rdoEmployee";
+            rdoEmployee.Size = new Size(92, 23);
+            rdoEmployee.TabIndex = 4;
+            rdoEmployee.Text = "Nhân sự";
+            rdoEmployee.UseVisualStyleBackColor = true;
+            // 
             // grpInput
-            this.grpInput.Controls.Add(this.lblProductId);
-            this.grpInput.Controls.Add(this.txtProductId);
-            this.grpInput.Controls.Add(this.lblCategoryId);
-            this.grpInput.Controls.Add(this.txtCategoryId);
-            this.grpInput.Controls.Add(this.lblEmployeeId);
-            this.grpInput.Controls.Add(this.txtEmployeeId);
-            this.grpInput.Font = new System.Drawing.Font("Arial", 10F);
-            this.grpInput.Location = new System.Drawing.Point(290, 96);
-            this.grpInput.Name = "grpInput";
-            this.grpInput.Size = new System.Drawing.Size(307, 117);
-            this.grpInput.TabIndex = 5;
-            this.grpInput.TabStop = false;
-            this.grpInput.Text = "Phần nhập tiêu chí";
-
+            // 
+            grpInput.Controls.Add(lblProductId);
+            grpInput.Controls.Add(txtProductId);
+            grpInput.Controls.Add(lblCategoryId);
+            grpInput.Controls.Add(txtCategoryId);
+            grpInput.Controls.Add(lblEmployeeId);
+            grpInput.Controls.Add(txtEmployeeId);
+            grpInput.Font = new Font("Arial", 10F);
+            grpInput.Location = new Point(290, 96);
+            grpInput.Name = "grpInput";
+            grpInput.Size = new Size(307, 117);
+            grpInput.TabIndex = 5;
+            grpInput.TabStop = false;
+            grpInput.Text = "Phần nhập tiêu chí";
+            // 
             // lblProductId
-            this.lblProductId.Location = new System.Drawing.Point(15, 27);
-            this.lblProductId.Text = "Mã hàng hóa";
-            this.lblProductId.Size = new System.Drawing.Size(100, 23);
-
+            // 
+            lblProductId.Location = new Point(15, 27);
+            lblProductId.Name = "lblProductId";
+            lblProductId.Size = new Size(100, 23);
+            lblProductId.TabIndex = 0;
+            lblProductId.Text = "Mã hàng hóa";
+            // 
             // txtProductId
-            this.txtProductId.Location = new System.Drawing.Point(130, 24);
-            this.txtProductId.Size = new System.Drawing.Size(160, 23);
-
+            // 
+            txtProductId.Location = new Point(130, 24);
+            txtProductId.Name = "txtProductId";
+            txtProductId.Size = new Size(160, 27);
+            txtProductId.TabIndex = 1;
+            // 
             // lblCategoryId
-            this.lblCategoryId.Location = new System.Drawing.Point(15, 55);
-            this.lblCategoryId.Text = "Mã loại hàng";
-            this.lblCategoryId.Size = new System.Drawing.Size(100, 23);
-
+            // 
+            lblCategoryId.Location = new Point(15, 55);
+            lblCategoryId.Name = "lblCategoryId";
+            lblCategoryId.Size = new Size(100, 23);
+            lblCategoryId.TabIndex = 2;
+            lblCategoryId.Text = "Mã loại hàng";
+            // 
             // txtCategoryId
-            this.txtCategoryId.Location = new System.Drawing.Point(130, 52);
-            this.txtCategoryId.Size = new System.Drawing.Size(160, 23);
-
+            // 
+            txtCategoryId.Location = new Point(130, 52);
+            txtCategoryId.Name = "txtCategoryId";
+            txtCategoryId.Size = new Size(160, 27);
+            txtCategoryId.TabIndex = 3;
+            // 
             // lblEmployeeId
-            this.lblEmployeeId.Location = new System.Drawing.Point(15, 83);
-            this.lblEmployeeId.Text = "Mã nhân viên";
-            this.lblEmployeeId.Size = new System.Drawing.Size(100, 23);
-
+            // 
+            lblEmployeeId.Location = new Point(15, 83);
+            lblEmployeeId.Name = "lblEmployeeId";
+            lblEmployeeId.Size = new Size(100, 23);
+            lblEmployeeId.TabIndex = 4;
+            lblEmployeeId.Text = "Mã nhân viên";
+            // 
             // txtEmployeeId
-            this.txtEmployeeId.Location = new System.Drawing.Point(130, 80);
-            this.txtEmployeeId.Size = new System.Drawing.Size(160, 23);
-
+            // 
+            txtEmployeeId.Location = new Point(130, 80);
+            txtEmployeeId.Name = "txtEmployeeId";
+            txtEmployeeId.Size = new Size(160, 27);
+            txtEmployeeId.TabIndex = 5;
+            // 
             // grpTime
-            this.grpTime.Controls.Add(this.rdoByDay);
-            this.grpTime.Controls.Add(this.dtpByDay);
-            this.grpTime.Controls.Add(this.rdoByRange);
-            this.grpTime.Controls.Add(this.dtpFromDate);
-            this.grpTime.Controls.Add(this.lblFrom);
-            this.grpTime.Controls.Add(this.dtpToDate);
-            this.grpTime.Controls.Add(this.lblTo);
-            this.grpTime.Font = new System.Drawing.Font("Arial", 10F);
-            this.grpTime.Location = new System.Drawing.Point(48, 225);
-            this.grpTime.Name = "grpTime";
-            this.grpTime.Size = new System.Drawing.Size(549, 77);
-            this.grpTime.TabIndex = 6;
-            this.grpTime.TabStop = false;
-            this.grpTime.Text = "Khoảng thời gian";
-
+            // 
+            grpTime.Controls.Add(rdoByDay);
+            grpTime.Controls.Add(dtpByDay);
+            grpTime.Controls.Add(rdoByRange);
+            grpTime.Controls.Add(dtpFromDate);
+            grpTime.Controls.Add(lblFrom);
+            grpTime.Controls.Add(dtpToDate);
+            grpTime.Controls.Add(lblTo);
+            grpTime.Font = new Font("Arial", 10F);
+            grpTime.Location = new Point(48, 225);
+            grpTime.Name = "grpTime";
+            grpTime.Size = new Size(549, 77);
+            grpTime.TabIndex = 6;
+            grpTime.TabStop = false;
+            grpTime.Text = "Khoảng thời gian";
+            // 
             // rdoByDay
-            this.rdoByDay.AutoSize = true;
-            this.rdoByDay.Location = new System.Drawing.Point(17, 32);
-            this.rdoByDay.Name = "rdoByDay";
-            this.rdoByDay.Size = new System.Drawing.Size(92, 23);
-            this.rdoByDay.TabIndex = 7;
-            this.rdoByDay.TabStop = true;
-            this.rdoByDay.Text = "Theo ngày:";
-            this.rdoByDay.UseVisualStyleBackColor = true;
-
+            // 
+            rdoByDay.AutoSize = true;
+            rdoByDay.Location = new Point(17, 32);
+            rdoByDay.Name = "rdoByDay";
+            rdoByDay.Size = new Size(112, 23);
+            rdoByDay.TabIndex = 7;
+            rdoByDay.TabStop = true;
+            rdoByDay.Text = "Theo ngày:";
+            rdoByDay.UseVisualStyleBackColor = true;
+            // 
             // dtpByDay
-            this.dtpByDay.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dtpByDay.CustomFormat = "dd/MM/yyyy";
-            this.dtpByDay.Location = new System.Drawing.Point(115, 31);
-            this.dtpByDay.Name = "dtpByDay";
-            this.dtpByDay.Size = new System.Drawing.Size(95, 23);
-
+            // 
+            dtpByDay.CustomFormat = "dd/MM/yyyy";
+            dtpByDay.Format = DateTimePickerFormat.Custom;
+            dtpByDay.Location = new Point(115, 31);
+            dtpByDay.Name = "dtpByDay";
+            dtpByDay.Size = new Size(95, 27);
+            dtpByDay.TabIndex = 8;
+            // 
             // rdoByRange
-            this.rdoByRange.AutoSize = true;
-            this.rdoByRange.Location = new System.Drawing.Point(225, 32);
-            this.rdoByRange.Name = "rdoByRange";
-            this.rdoByRange.Size = new System.Drawing.Size(109, 23);
-            this.rdoByRange.TabIndex = 8;
-            this.rdoByRange.Text = "Theo khoảng:";
-            this.rdoByRange.UseVisualStyleBackColor = true;
-
-            // lblFrom
-            this.lblFrom.Location = new System.Drawing.Point(335, 35);
-            this.lblFrom.Size = new System.Drawing.Size(25, 15);
-            this.lblFrom.Text = "Từ:";
-
+            // 
+            rdoByRange.AutoSize = true;
+            rdoByRange.Location = new Point(225, 32);
+            rdoByRange.Name = "rdoByRange";
+            rdoByRange.Size = new Size(129, 23);
+            rdoByRange.TabIndex = 8;
+            rdoByRange.Text = "Theo khoảng:";
+            rdoByRange.UseVisualStyleBackColor = true;
+            // 
             // dtpFromDate
-            this.dtpFromDate.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dtpFromDate.CustomFormat = "dd/MM/yyyy";
-            this.dtpFromDate.Location = new System.Drawing.Point(360, 31);
-            this.dtpFromDate.Name = "dtpFromDate";
-            this.dtpFromDate.Size = new System.Drawing.Size(95, 23);
-
-            // lblTo
-            this.lblTo.Location = new System.Drawing.Point(460, 35);
-            this.lblTo.Size = new System.Drawing.Size(36, 15);
-            this.lblTo.Text = "Đến:";
-
+            // 
+            dtpFromDate.CustomFormat = "dd/MM/yyyy";
+            dtpFromDate.Format = DateTimePickerFormat.Custom;
+            dtpFromDate.Location = new Point(360, 31);
+            dtpFromDate.Name = "dtpFromDate";
+            dtpFromDate.Size = new Size(95, 27);
+            dtpFromDate.TabIndex = 9;
+            // 
+            // lblFrom
+            // 
+            lblFrom.Location = new Point(335, 35);
+            lblFrom.Name = "lblFrom";
+            lblFrom.Size = new Size(25, 15);
+            lblFrom.TabIndex = 10;
+            lblFrom.Text = "Từ:";
+            // 
             // dtpToDate
-            this.dtpToDate.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dtpToDate.CustomFormat = "dd/MM/yyyy";
-            this.dtpToDate.Location = new System.Drawing.Point(495, 31);
-            this.dtpToDate.Name = "dtpToDate";
-            this.dtpToDate.Size = new System.Drawing.Size(95, 23);
-
+            // 
+            dtpToDate.CustomFormat = "dd/MM/yyyy";
+            dtpToDate.Format = DateTimePickerFormat.Custom;
+            dtpToDate.Location = new Point(495, 31);
+            dtpToDate.Name = "dtpToDate";
+            dtpToDate.Size = new Size(95, 27);
+            dtpToDate.TabIndex = 11;
+            // 
+            // lblTo
+            // 
+            lblTo.Location = new Point(460, 35);
+            lblTo.Name = "lblTo";
+            lblTo.Size = new Size(36, 15);
+            lblTo.TabIndex = 12;
+            lblTo.Text = "Đến:";
+            // 
             // dgvResult
-            this.dgvResult.Location = new System.Drawing.Point(48, 320);
-            this.dgvResult.Name = "dgvResult";
-            this.dgvResult.Size = new System.Drawing.Size(560, 200);
-
+            // 
+            dgvResult.ColumnHeadersHeight = 29;
+            dgvResult.Location = new Point(48, 320);
+            dgvResult.Name = "dgvResult";
+            dgvResult.RowHeadersWidth = 51;
+            dgvResult.Size = new Size(560, 200);
+            dgvResult.TabIndex = 7;
+            // 
             // btnSearch
-            this.btnSearch.Location = new System.Drawing.Point(130, 540);
-            this.btnSearch.Name = "btnSearch";
-            this.btnSearch.Size = new System.Drawing.Size(90, 32);
-            this.btnSearch.TabIndex = 9;
-            this.btnSearch.Text = "Tìm kiếm";
-            this.btnSearch.UseVisualStyleBackColor = true;
-
+            // 
+            btnSearch.Location = new Point(130, 540);
+            btnSearch.Name = "btnSearch";
+            btnSearch.Size = new Size(90, 32);
+            btnSearch.TabIndex = 9;
+            btnSearch.Text = "Tìm kiếm";
+            btnSearch.UseVisualStyleBackColor = true;
+            btnSearch.Click += btnSearch_Click;
+            // 
             // btnShow
-            this.btnShow.Location = new System.Drawing.Point(230, 540);
-            this.btnShow.Name = "btnShow";
-            this.btnShow.Size = new System.Drawing.Size(90, 32);
-            this.btnShow.TabIndex = 10;
-            this.btnShow.Text = "Hiển thị";
-            this.btnShow.UseVisualStyleBackColor = true;
-
+            // 
+            btnShow.Location = new Point(230, 540);
+            btnShow.Name = "btnShow";
+            btnShow.Size = new Size(90, 32);
+            btnShow.TabIndex = 10;
+            btnShow.Text = "Hiển thị";
+            btnShow.UseVisualStyleBackColor = true;
+            btnShow.Click += btnShow_Click;
+            // 
             // btnCancel
-            this.btnCancel.Location = new System.Drawing.Point(330, 540);
-            this.btnCancel.Name = "btnCancel";
-            this.btnCancel.Size = new System.Drawing.Size(90, 32);
-            this.btnCancel.TabIndex = 11;
-            this.btnCancel.Text = "Hủy bỏ";
-            this.btnCancel.UseVisualStyleBackColor = true;
-
+            // 
+            btnCancel.Location = new Point(330, 540);
+            btnCancel.Name = "btnCancel";
+            btnCancel.Size = new Size(90, 32);
+            btnCancel.TabIndex = 11;
+            btnCancel.Text = "Hủy bỏ";
+            btnCancel.UseVisualStyleBackColor = true;
+            btnCancel.Click += btnCancel_Click;
+            // 
             // btnExit
-            this.btnExit.Location = new System.Drawing.Point(430, 540);
-            this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(90, 32);
-            this.btnExit.TabIndex = 12;
-            this.btnExit.Text = "Thoát";
-            this.btnExit.UseVisualStyleBackColor = true;
-
+            // 
+            btnExit.Location = new Point(430, 540);
+            btnExit.Name = "btnExit";
+            btnExit.Size = new Size(90, 32);
+            btnExit.TabIndex = 12;
+            btnExit.Text = "Thoát";
+            btnExit.UseVisualStyleBackColor = true;
+            // 
             // RevenueReportScreen
-            this.ClientSize = new System.Drawing.Size(657, 600);
-            this.Controls.Add(this.lblTitle);
-            this.Controls.Add(this.grpCriteria);
-            this.Controls.Add(this.grpInput);
-            this.Controls.Add(this.grpTime);
-            this.Controls.Add(this.dgvResult);
-            this.Controls.Add(this.btnSearch);
-            this.Controls.Add(this.btnShow);
-            this.Controls.Add(this.btnCancel);
-            this.Controls.Add(this.btnExit);
-            this.Name = "RevenueReportScreen";
-            this.Text = "BÁO CÁO DOANH THU";
-            ((System.ComponentModel.ISupportInitialize)(this.dgvResult)).EndInit();
-            this.ResumeLayout(false);
-            this.PerformLayout();
+            // 
+            Controls.Add(lblTitle);
+            Controls.Add(grpCriteria);
+            Controls.Add(grpInput);
+            Controls.Add(grpTime);
+            Controls.Add(dgvResult);
+            Controls.Add(btnSearch);
+            Controls.Add(btnShow);
+            Controls.Add(btnCancel);
+            Controls.Add(btnExit);
+            Name = "RevenueReportScreen";
+            Size = new Size(657, 600);
+            Load += RevenueReportScreen_Load;
+            grpCriteria.ResumeLayout(false);
+            grpCriteria.PerformLayout();
+            grpInput.ResumeLayout(false);
+            grpInput.PerformLayout();
+            grpTime.ResumeLayout(false);
+            grpTime.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)dgvResult).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
