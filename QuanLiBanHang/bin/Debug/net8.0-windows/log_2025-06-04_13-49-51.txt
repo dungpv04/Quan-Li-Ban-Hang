@@ -1,3 +1,0 @@
-[2025-06-04 13:49:51] [INFO] Successfully fetched all entities of type LoaiHang. Count: 2
-[2025-06-04 13:49:51] [DEBUG] Fetched 2 entities of type LoaiHang.
-[2025-06-04 13:50:03] [ERROR] Error updating entity of type LoaiHang: The database operation was expected to affect 1 row(s), but actually affected 0 row(s); data may have been modified or deleted since entities were loaded. See https://go.microsoft.com/fwlink/?LinkId=527962 for information on understanding and handling optimistic concurrency exceptions.

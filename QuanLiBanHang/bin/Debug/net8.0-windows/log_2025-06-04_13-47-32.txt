@@ -1,2 +1,0 @@
-[2025-06-04 13:47:32] [INFO] Successfully fetched all entities of type LoaiHang. Count: 2
-[2025-06-04 13:47:32] [DEBUG] Fetched 2 entities of type LoaiHang.
