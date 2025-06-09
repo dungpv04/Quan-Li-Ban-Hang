@@ -1,15 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Database.Models;
 using Services.IServices;
 using Shared.IFactory;
+using Shared.View_Models;
 namespace UI
 {
     public partial class ProductTypeScreen : UserControl
@@ -54,9 +57,18 @@ namespace UI
             if (productTypes != null && productTypes.Any())
             {
                 dgvLoaiHang.DataSource = productTypes.ToList();
-                dgvLoaiHang.Columns["MaLoai"].HeaderText = "Mã loại hàng";
-                dgvLoaiHang.Columns["TenLoai"].HeaderText = "Tên loại hàng";
-                dgvLoaiHang.Columns["MoTa"].HeaderText = "Mô tả";
+                foreach (DataGridViewColumn column in dgvLoaiHang.Columns)
+                {
+                    var prop = typeof(BrandViewModel).GetProperty(column.DataPropertyName);
+                    if (prop != null)
+                    {
+                        var displayAttr = prop.GetCustomAttribute<DisplayAttribute>();
+                        if (displayAttr != null)
+                        {
+                            column.HeaderText = displayAttr.Name;
+                        }
+                    }
+                }
                 dgvLoaiHang.Update();
                 dgvLoaiHang.Refresh();
             }

@@ -11,6 +11,10 @@ namespace Shared.IFactory
     public interface IAbstractFactory
     {
         ProductTypeViewModel createProductTypeViewModel(LoaiHang entity);
+        BrandViewModel createBrandViewModel(ThuongHieu entity);
+        SupplierViewModel createSupplierViewModel(NhaCungCap entity);
+        EmployeeViewModel createEmployeeViewModel(NhanVien entity);
+        ProductViewModel createProductViewModel(Hang entity);
         RevenueReportViewModel createRevenueReportViewModel(HoaDonBan hoaDonBan, ChiTietHDBan chiTiet, Hang hang, LoaiHang loaiHang, NhanVien nhanVien, Khach khach);
     }
 }
