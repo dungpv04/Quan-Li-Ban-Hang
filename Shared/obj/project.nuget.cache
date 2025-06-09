@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Y44OKYadsts=",
+  "dgSpecHash": "HXb0wYGy2Fc=",
   "success": true,
   "projectFilePath": "D:\\cs\\QuanLiBanHang\\Shared\\Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vandu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\vandu\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\vandu\\.nuget\\packages\\bogus\\35.6.3\\bogus.35.6.3.nupkg.sha512",
     "C:\\Users\\vandu\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\vandu\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\vandu\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.6\\microsoft.data.sqlclient.5.1.6.nupkg.sha512",

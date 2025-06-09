@@ -48,7 +48,7 @@
             lblTitle.BackColor = Color.White;
             lblTitle.Font = new Font("Arial", 24F, FontStyle.Bold);
             lblTitle.ForeColor = Color.DodgerBlue;
-            lblTitle.Location = new Point(220, 26);
+            lblTitle.Location = new Point(245, 30);
             lblTitle.Name = "lblTitle";
             lblTitle.Size = new Size(241, 46);
             lblTitle.TabIndex = 0;
@@ -93,7 +93,7 @@
             txtMaLoai.Location = new Point(210, 115);
             txtMaLoai.Margin = new Padding(3, 4, 3, 4);
             txtMaLoai.Name = "txtMaLoai";
-            txtMaLoai.Size = new Size(315, 30);
+            txtMaLoai.Size = new Size(437, 30);
             txtMaLoai.TabIndex = 4;
             // 
             // txtTenLoai
@@ -102,7 +102,7 @@
             txtTenLoai.Location = new Point(210, 168);
             txtTenLoai.Margin = new Padding(3, 4, 3, 4);
             txtTenLoai.Name = "txtTenLoai";
-            txtTenLoai.Size = new Size(315, 30);
+            txtTenLoai.Size = new Size(437, 30);
             txtTenLoai.TabIndex = 5;
             // 
             // txtMoTa
@@ -111,24 +111,25 @@
             txtMoTa.Location = new Point(210, 220);
             txtMoTa.Margin = new Padding(3, 4, 3, 4);
             txtMoTa.Name = "txtMoTa";
-            txtMoTa.Size = new Size(315, 30);
+            txtMoTa.Size = new Size(437, 30);
             txtMoTa.TabIndex = 6;
             // 
             // dgvLoaiHang
             // 
+            dgvLoaiHang.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dgvLoaiHang.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dgvLoaiHang.Location = new Point(65, 300);
             dgvLoaiHang.Margin = new Padding(3, 4, 3, 4);
             dgvLoaiHang.Name = "dgvLoaiHang";
             dgvLoaiHang.RowHeadersWidth = 51;
             dgvLoaiHang.RowTemplate.Height = 24;
-            dgvLoaiHang.Size = new Size(550, 188);
+            dgvLoaiHang.Size = new Size(582, 188);
             dgvLoaiHang.TabIndex = 7;
             // 
             // btnThem
             // 
             btnThem.Font = new Font("Arial", 10F);
-            btnThem.Location = new Point(65, 512);
+            btnThem.Location = new Point(224, 507);
             btnThem.Margin = new Padding(3, 4, 3, 4);
             btnThem.Name = "btnThem";
             btnThem.Size = new Size(90, 44);
@@ -140,7 +141,7 @@
             // btnSua
             // 
             btnSua.Font = new Font("Arial", 10F);
-            btnSua.Location = new Point(170, 512);
+            btnSua.Location = new Point(320, 507);
             btnSua.Margin = new Padding(3, 4, 3, 4);
             btnSua.Name = "btnSua";
             btnSua.Size = new Size(90, 44);
@@ -152,7 +153,7 @@
             // btnXoa
             // 
             btnXoa.Font = new Font("Arial", 10F);
-            btnXoa.Location = new Point(275, 512);
+            btnXoa.Location = new Point(416, 507);
             btnXoa.Margin = new Padding(3, 4, 3, 4);
             btnXoa.Name = "btnXoa";
             btnXoa.Size = new Size(90, 44);
