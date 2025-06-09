@@ -9,6 +9,8 @@ public static class ServiceDependency
         services.AddScoped<IProductTypeService, ProductTypeService>();
         services.AddScoped<IBrandService, BrandService>();
         services.AddScoped<ISupplierService, SupplierService>();
+        services.AddScoped<IEmployeeService, EmployeeService>();
+        services.AddScoped<IProductService, ProductService>();
         return services;
     }
 

@@ -1,2 +1,0 @@
-[2025-06-02 15:44:18] [ERROR] Error adding entity of type LoaiHang: An error occurred while saving the entity changes. See the inner exception for details.
-[2025-06-02 15:44:20] [ERROR] Error adding entity of type LoaiHang: The instance of entity type 'LoaiHang' cannot be tracked because another instance with the same key value for {'MaLoai'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.

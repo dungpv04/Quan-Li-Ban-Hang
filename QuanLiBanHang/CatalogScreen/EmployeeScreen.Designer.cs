@@ -17,246 +17,234 @@
 
         private void InitializeComponent()
         {
-            this.lblTitle = new System.Windows.Forms.Label();
-            this.lblEmployeeId = new System.Windows.Forms.Label();
-            this.lblEmployeeName = new System.Windows.Forms.Label();
-            this.lblAddress = new System.Windows.Forms.Label();
-            this.lblBirthDate = new System.Windows.Forms.Label();
-            this.lblPhone = new System.Windows.Forms.Label();
-            this.lblGender = new System.Windows.Forms.Label();
-            this.txtEmployeeId = new System.Windows.Forms.TextBox();
-            this.txtEmployeeName = new System.Windows.Forms.TextBox();
-            this.txtAddress = new System.Windows.Forms.TextBox();
-            this.dtpBirthDate = new System.Windows.Forms.DateTimePicker();
-            this.txtPhone = new System.Windows.Forms.TextBox();
-            this.rdoMale = new System.Windows.Forms.RadioButton();
-            this.rdoFemale = new System.Windows.Forms.RadioButton();
-            this.dgvEmployee = new System.Windows.Forms.DataGridView();
-            this.btnAdd = new System.Windows.Forms.Button();
-            this.btnEdit = new System.Windows.Forms.Button();
-            this.btnDelete = new System.Windows.Forms.Button();
-            this.btnSave = new System.Windows.Forms.Button();
-            this.btnCancel = new System.Windows.Forms.Button();
-            this.btnExit = new System.Windows.Forms.Button();
-
-            ((System.ComponentModel.ISupportInitialize)(this.dgvEmployee)).BeginInit();
-            this.SuspendLayout();
-
+            lblTitle = new Label();
+            lblEmployeeId = new Label();
+            lblEmployeeName = new Label();
+            lblAddress = new Label();
+            lblBirthDate = new Label();
+            lblPhone = new Label();
+            lblGender = new Label();
+            txtEmployeeId = new TextBox();
+            txtEmployeeName = new TextBox();
+            txtAddress = new TextBox();
+            dtpBirthDate = new DateTimePicker();
+            txtPhone = new TextBox();
+            rdoMale = new RadioButton();
+            rdoFemale = new RadioButton();
+            dgvEmployee = new DataGridView();
+            btnAdd = new Button();
+            btnEdit = new Button();
+            btnDelete = new Button();
+            ((System.ComponentModel.ISupportInitialize)dgvEmployee).BeginInit();
+            SuspendLayout();
+            // 
             // lblTitle
-            this.lblTitle.AutoSize = true;
-            this.lblTitle.Font = new System.Drawing.Font("Arial", 24F, System.Drawing.FontStyle.Bold);
-            this.lblTitle.ForeColor = System.Drawing.Color.DodgerBlue;
-            this.lblTitle.Location = new System.Drawing.Point(190, 60);
-            this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Size = new System.Drawing.Size(197, 46);
-            this.lblTitle.TabIndex = 0;
-            this.lblTitle.Text = "NHÂN VIÊN";
-
+            // 
+            lblTitle.AutoSize = true;
+            lblTitle.Font = new Font("Arial", 24F, FontStyle.Bold);
+            lblTitle.ForeColor = Color.DodgerBlue;
+            lblTitle.Location = new Point(166, 56);
+            lblTitle.Name = "lblTitle";
+            lblTitle.Size = new Size(187, 37);
+            lblTitle.TabIndex = 0;
+            lblTitle.Text = "NHÂN VIÊN";
+            // 
             // lblEmployeeId
-            this.lblEmployeeId.AutoSize = true;
-            this.lblEmployeeId.Font = new System.Drawing.Font("Arial", 11F);
-            this.lblEmployeeId.Location = new System.Drawing.Point(115, 135);
-            this.lblEmployeeId.Name = "lblEmployeeId";
-            this.lblEmployeeId.Size = new System.Drawing.Size(102, 22);
-            this.lblEmployeeId.TabIndex = 1;
-            this.lblEmployeeId.Text = "Mã nhân viên";
-
-            // txtEmployeeId
-            this.txtEmployeeId.Font = new System.Drawing.Font("Arial", 11F);
-            this.txtEmployeeId.Location = new System.Drawing.Point(230, 132);
-            this.txtEmployeeId.Name = "txtEmployeeId";
-            this.txtEmployeeId.Size = new System.Drawing.Size(200, 29);
-            this.txtEmployeeId.TabIndex = 2;
-
+            // 
+            lblEmployeeId.AutoSize = true;
+            lblEmployeeId.Font = new Font("Arial", 11F);
+            lblEmployeeId.Location = new Point(101, 127);
+            lblEmployeeId.Name = "lblEmployeeId";
+            lblEmployeeId.Size = new Size(93, 17);
+            lblEmployeeId.TabIndex = 1;
+            lblEmployeeId.Text = "Mã nhân viên";
+            // 
             // lblEmployeeName
-            this.lblEmployeeName.AutoSize = true;
-            this.lblEmployeeName.Font = new System.Drawing.Font("Arial", 11F);
-            this.lblEmployeeName.Location = new System.Drawing.Point(115, 170);
-            this.lblEmployeeName.Name = "lblEmployeeName";
-            this.lblEmployeeName.Size = new System.Drawing.Size(111, 22);
-            this.lblEmployeeName.TabIndex = 3;
-            this.lblEmployeeName.Text = "Tên nhân viên";
-
-            // txtEmployeeName
-            this.txtEmployeeName.Font = new System.Drawing.Font("Arial", 11F);
-            this.txtEmployeeName.Location = new System.Drawing.Point(230, 167);
-            this.txtEmployeeName.Name = "txtEmployeeName";
-            this.txtEmployeeName.Size = new System.Drawing.Size(200, 29);
-            this.txtEmployeeName.TabIndex = 4;
-
+            // 
+            lblEmployeeName.AutoSize = true;
+            lblEmployeeName.Font = new Font("Arial", 11F);
+            lblEmployeeName.Location = new Point(101, 159);
+            lblEmployeeName.Name = "lblEmployeeName";
+            lblEmployeeName.Size = new Size(99, 17);
+            lblEmployeeName.TabIndex = 3;
+            lblEmployeeName.Text = "Tên nhân viên";
+            // 
             // lblAddress
-            this.lblAddress.AutoSize = true;
-            this.lblAddress.Font = new System.Drawing.Font("Arial", 11F);
-            this.lblAddress.Location = new System.Drawing.Point(115, 205);
-            this.lblAddress.Name = "lblAddress";
-            this.lblAddress.Size = new System.Drawing.Size(61, 22);
-            this.lblAddress.TabIndex = 5;
-            this.lblAddress.Text = "Địa chỉ";
-
-            // txtAddress
-            this.txtAddress.Font = new System.Drawing.Font("Arial", 11F);
-            this.txtAddress.Location = new System.Drawing.Point(230, 202);
-            this.txtAddress.Name = "txtAddress";
-            this.txtAddress.Size = new System.Drawing.Size(200, 29);
-            this.txtAddress.TabIndex = 6;
-
+            // 
+            lblAddress.AutoSize = true;
+            lblAddress.Font = new Font("Arial", 11F);
+            lblAddress.Location = new Point(101, 192);
+            lblAddress.Name = "lblAddress";
+            lblAddress.Size = new Size(53, 17);
+            lblAddress.TabIndex = 5;
+            lblAddress.Text = "Địa chỉ";
+            // 
             // lblBirthDate
-            this.lblBirthDate.AutoSize = true;
-            this.lblBirthDate.Font = new System.Drawing.Font("Arial", 11F);
-            this.lblBirthDate.Location = new System.Drawing.Point(470, 135);
-            this.lblBirthDate.Name = "lblBirthDate";
-            this.lblBirthDate.Size = new System.Drawing.Size(80, 22);
-            this.lblBirthDate.TabIndex = 7;
-            this.lblBirthDate.Text = "Ngày sinh";
-
-            // dtpBirthDate
-            this.dtpBirthDate.Font = new System.Drawing.Font("Arial", 11F);
-            this.dtpBirthDate.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dtpBirthDate.Location = new System.Drawing.Point(570, 132);
-            this.dtpBirthDate.Name = "dtpBirthDate";
-            this.dtpBirthDate.Size = new System.Drawing.Size(160, 29);
-            this.dtpBirthDate.TabIndex = 8;
-
+            // 
+            lblBirthDate.AutoSize = true;
+            lblBirthDate.Font = new Font("Arial", 11F);
+            lblBirthDate.Location = new Point(411, 127);
+            lblBirthDate.Name = "lblBirthDate";
+            lblBirthDate.Size = new Size(72, 17);
+            lblBirthDate.TabIndex = 7;
+            lblBirthDate.Text = "Ngày sinh";
+            // 
             // lblPhone
-            this.lblPhone.AutoSize = true;
-            this.lblPhone.Font = new System.Drawing.Font("Arial", 11F);
-            this.lblPhone.Location = new System.Drawing.Point(470, 175);
-            this.lblPhone.Name = "lblPhone";
-            this.lblPhone.Size = new System.Drawing.Size(84, 22);
-            this.lblPhone.TabIndex = 9;
-            this.lblPhone.Text = "Số điện thoại";
-
-            // txtPhone
-            this.txtPhone.Font = new System.Drawing.Font("Arial", 11F);
-            this.txtPhone.Location = new System.Drawing.Point(570, 172);
-            this.txtPhone.Name = "txtPhone";
-            this.txtPhone.Size = new System.Drawing.Size(160, 29);
-            this.txtPhone.TabIndex = 10;
-
+            // 
+            lblPhone.AutoSize = true;
+            lblPhone.Font = new Font("Arial", 11F);
+            lblPhone.Location = new Point(411, 164);
+            lblPhone.Name = "lblPhone";
+            lblPhone.Size = new Size(92, 17);
+            lblPhone.TabIndex = 9;
+            lblPhone.Text = "Số điện thoại";
+            // 
             // lblGender
-            this.lblGender.AutoSize = true;
-            this.lblGender.Font = new System.Drawing.Font("Arial", 11F);
-            this.lblGender.Location = new System.Drawing.Point(470, 215);
-            this.lblGender.Name = "lblGender";
-            this.lblGender.Size = new System.Drawing.Size(70, 22);
-            this.lblGender.TabIndex = 11;
-            this.lblGender.Text = "Giới tính";
-
+            // 
+            lblGender.AutoSize = true;
+            lblGender.Font = new Font("Arial", 11F);
+            lblGender.Location = new Point(411, 202);
+            lblGender.Name = "lblGender";
+            lblGender.Size = new Size(62, 17);
+            lblGender.TabIndex = 11;
+            lblGender.Text = "Giới tính";
+            // 
+            // txtEmployeeId
+            // 
+            txtEmployeeId.Font = new Font("Arial", 11F);
+            txtEmployeeId.Location = new Point(201, 124);
+            txtEmployeeId.Name = "txtEmployeeId";
+            txtEmployeeId.Size = new Size(176, 24);
+            txtEmployeeId.TabIndex = 2;
+            // 
+            // txtEmployeeName
+            // 
+            txtEmployeeName.Font = new Font("Arial", 11F);
+            txtEmployeeName.Location = new Point(201, 157);
+            txtEmployeeName.Name = "txtEmployeeName";
+            txtEmployeeName.Size = new Size(176, 24);
+            txtEmployeeName.TabIndex = 4;
+            // 
+            // txtAddress
+            // 
+            txtAddress.Font = new Font("Arial", 11F);
+            txtAddress.Location = new Point(201, 189);
+            txtAddress.Name = "txtAddress";
+            txtAddress.Size = new Size(176, 24);
+            txtAddress.TabIndex = 6;
+            // 
+            // dtpBirthDate
+            // 
+            dtpBirthDate.Font = new Font("Arial", 11F);
+            dtpBirthDate.Format = DateTimePickerFormat.Short;
+            dtpBirthDate.Location = new Point(499, 124);
+            dtpBirthDate.Name = "dtpBirthDate";
+            dtpBirthDate.Size = new Size(140, 24);
+            dtpBirthDate.TabIndex = 8;
+            // 
+            // txtPhone
+            // 
+            txtPhone.Font = new Font("Arial", 11F);
+            txtPhone.Location = new Point(499, 161);
+            txtPhone.Name = "txtPhone";
+            txtPhone.Size = new Size(140, 24);
+            txtPhone.TabIndex = 10;
+            // 
             // rdoMale
-            this.rdoMale.AutoSize = true;
-            this.rdoMale.Font = new System.Drawing.Font("Arial", 10F);
-            this.rdoMale.Location = new System.Drawing.Point(570, 215);
-            this.rdoMale.Name = "rdoMale";
-            this.rdoMale.Size = new System.Drawing.Size(60, 23);
-            this.rdoMale.TabIndex = 12;
-            this.rdoMale.TabStop = true;
-            this.rdoMale.Text = "Nam";
-            this.rdoMale.UseVisualStyleBackColor = true;
-
+            // 
+            rdoMale.AutoSize = true;
+            rdoMale.Font = new Font("Arial", 10F);
+            rdoMale.Location = new Point(499, 202);
+            rdoMale.Name = "rdoMale";
+            rdoMale.Size = new Size(53, 20);
+            rdoMale.TabIndex = 12;
+            rdoMale.TabStop = true;
+            rdoMale.Text = "Nam";
+            rdoMale.UseVisualStyleBackColor = true;
+            // 
             // rdoFemale
-            this.rdoFemale.AutoSize = true;
-            this.rdoFemale.Font = new System.Drawing.Font("Arial", 10F);
-            this.rdoFemale.Location = new System.Drawing.Point(646, 215);
-            this.rdoFemale.Name = "rdoFemale";
-            this.rdoFemale.Size = new System.Drawing.Size(49, 23);
-            this.rdoFemale.TabIndex = 13;
-            this.rdoFemale.TabStop = true;
-            this.rdoFemale.Text = "Nữ";
-            this.rdoFemale.UseVisualStyleBackColor = true;
-
+            // 
+            rdoFemale.AutoSize = true;
+            rdoFemale.Font = new Font("Arial", 10F);
+            rdoFemale.Location = new Point(565, 202);
+            rdoFemale.Name = "rdoFemale";
+            rdoFemale.Size = new Size(43, 20);
+            rdoFemale.TabIndex = 13;
+            rdoFemale.TabStop = true;
+            rdoFemale.Text = "Nữ";
+            rdoFemale.UseVisualStyleBackColor = true;
+            // 
             // dgvEmployee
-            this.dgvEmployee.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvEmployee.Location = new System.Drawing.Point(115, 260);
-            this.dgvEmployee.Name = "dgvEmployee";
-            this.dgvEmployee.RowHeadersWidth = 51;
-            this.dgvEmployee.RowTemplate.Height = 24;
-            this.dgvEmployee.Size = new System.Drawing.Size(615, 180);
-            this.dgvEmployee.TabIndex = 14;
-
+            // 
+            dgvEmployee.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgvEmployee.Location = new Point(101, 244);
+            dgvEmployee.Name = "dgvEmployee";
+            dgvEmployee.RowHeadersWidth = 51;
+            dgvEmployee.RowTemplate.Height = 24;
+            dgvEmployee.Size = new Size(538, 169);
+            dgvEmployee.TabIndex = 14;
+            // 
             // btnAdd
-            this.btnAdd.Font = new System.Drawing.Font("Arial", 10F);
-            this.btnAdd.Location = new System.Drawing.Point(115, 470);
-            this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(80, 32);
-            this.btnAdd.TabIndex = 15;
-            this.btnAdd.Text = "Thêm";
-            this.btnAdd.UseVisualStyleBackColor = true;
-
+            // 
+            btnAdd.Font = new Font("Arial", 10F);
+            btnAdd.Location = new Point(101, 441);
+            btnAdd.Name = "btnAdd";
+            btnAdd.Size = new Size(70, 30);
+            btnAdd.TabIndex = 15;
+            btnAdd.Text = "Thêm";
+            btnAdd.UseVisualStyleBackColor = true;
+            btnAdd.Click += btnAdd_Click;
+            // 
             // btnEdit
-            this.btnEdit.Font = new System.Drawing.Font("Arial", 10F);
-            this.btnEdit.Location = new System.Drawing.Point(205, 470);
-            this.btnEdit.Name = "btnEdit";
-            this.btnEdit.Size = new System.Drawing.Size(80, 32);
-            this.btnEdit.TabIndex = 16;
-            this.btnEdit.Text = "Sửa";
-            this.btnEdit.UseVisualStyleBackColor = true;
-
+            // 
+            btnEdit.Font = new Font("Arial", 10F);
+            btnEdit.Location = new Point(179, 441);
+            btnEdit.Name = "btnEdit";
+            btnEdit.Size = new Size(70, 30);
+            btnEdit.TabIndex = 16;
+            btnEdit.Text = "Sửa";
+            btnEdit.UseVisualStyleBackColor = true;
+            btnEdit.Click += btnEdit_Click;
+            // 
             // btnDelete
-            this.btnDelete.Font = new System.Drawing.Font("Arial", 10F);
-            this.btnDelete.Location = new System.Drawing.Point(295, 470);
-            this.btnDelete.Name = "btnDelete";
-            this.btnDelete.Size = new System.Drawing.Size(80, 32);
-            this.btnDelete.TabIndex = 17;
-            this.btnDelete.Text = "Xóa";
-            this.btnDelete.UseVisualStyleBackColor = true;
-
-            // btnSave
-            this.btnSave.Font = new System.Drawing.Font("Arial", 10F);
-            this.btnSave.Location = new System.Drawing.Point(385, 470);
-            this.btnSave.Name = "btnSave";
-            this.btnSave.Size = new System.Drawing.Size(80, 32);
-            this.btnSave.TabIndex = 18;
-            this.btnSave.Text = "Lưu";
-            this.btnSave.UseVisualStyleBackColor = true;
-
-            // btnCancel
-            this.btnCancel.Font = new System.Drawing.Font("Arial", 10F);
-            this.btnCancel.Location = new System.Drawing.Point(475, 470);
-            this.btnCancel.Name = "btnCancel";
-            this.btnCancel.Size = new System.Drawing.Size(80, 32);
-            this.btnCancel.TabIndex = 19;
-            this.btnCancel.Text = "Bỏ qua";
-            this.btnCancel.UseVisualStyleBackColor = true;
-
-            // btnExit
-            this.btnExit.Font = new System.Drawing.Font("Arial", 10F);
-            this.btnExit.Location = new System.Drawing.Point(565, 470);
-            this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(80, 32);
-            this.btnExit.TabIndex = 20;
-            this.btnExit.Text = "Thoát";
-            this.btnExit.UseVisualStyleBackColor = true;
-
-            // EmployeeForm
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(850, 540);
-            this.Controls.Add(this.lblTitle);
-            this.Controls.Add(this.lblEmployeeId);
-            this.Controls.Add(this.txtEmployeeId);
-            this.Controls.Add(this.lblEmployeeName);
-            this.Controls.Add(this.txtEmployeeName);
-            this.Controls.Add(this.lblAddress);
-            this.Controls.Add(this.txtAddress);
-            this.Controls.Add(this.lblBirthDate);
-            this.Controls.Add(this.dtpBirthDate);
-            this.Controls.Add(this.lblPhone);
-            this.Controls.Add(this.txtPhone);
-            this.Controls.Add(this.lblGender);
-            this.Controls.Add(this.rdoMale);
-            this.Controls.Add(this.rdoFemale);
-            this.Controls.Add(this.dgvEmployee);
-            this.Controls.Add(this.btnAdd);
-            this.Controls.Add(this.btnEdit);
-            this.Controls.Add(this.btnDelete);
-            this.Controls.Add(this.btnSave);
-            this.Controls.Add(this.btnCancel);
-            this.Controls.Add(this.btnExit);
-            this.Name = "EmployeeForm";
-            this.Text = "Nhân viên";
-            ((System.ComponentModel.ISupportInitialize)(this.dgvEmployee)).EndInit();
-            this.ResumeLayout(false);
-            this.PerformLayout();
+            // 
+            btnDelete.Font = new Font("Arial", 10F);
+            btnDelete.Location = new Point(258, 441);
+            btnDelete.Name = "btnDelete";
+            btnDelete.Size = new Size(70, 30);
+            btnDelete.TabIndex = 17;
+            btnDelete.Text = "Xóa";
+            btnDelete.UseVisualStyleBackColor = true;
+            btnDelete.Click += btnDelete_Click;
+            // 
+            // EmployeeScreen
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            Controls.Add(lblTitle);
+            Controls.Add(lblEmployeeId);
+            Controls.Add(txtEmployeeId);
+            Controls.Add(lblEmployeeName);
+            Controls.Add(txtEmployeeName);
+            Controls.Add(lblAddress);
+            Controls.Add(txtAddress);
+            Controls.Add(lblBirthDate);
+            Controls.Add(dtpBirthDate);
+            Controls.Add(lblPhone);
+            Controls.Add(txtPhone);
+            Controls.Add(lblGender);
+            Controls.Add(rdoMale);
+            Controls.Add(rdoFemale);
+            Controls.Add(dgvEmployee);
+            Controls.Add(btnAdd);
+            Controls.Add(btnEdit);
+            Controls.Add(btnDelete);
+            Name = "EmployeeScreen";
+            Size = new Size(744, 506);
+            Load += EmployeeScreen_Load;
+            ((System.ComponentModel.ISupportInitialize)dgvEmployee).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -279,8 +267,5 @@
         private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.Button btnEdit;
         private System.Windows.Forms.Button btnDelete;
-        private System.Windows.Forms.Button btnSave;
-        private System.Windows.Forms.Button btnCancel;
-        private System.Windows.Forms.Button btnExit;
     }
 }
