@@ -1,0 +1,23 @@
+# Ignore Visual Studio folders
+.vs/
+**/.vs/
+
+# Ignore build output folders
+bin/
+**/bin/
+obj/
+**/obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Rider and JetBrains IDEs (nếu dùng)
+.idea/
+*.iml
+
+# Ignore others if needed
+*.db
+*.log
