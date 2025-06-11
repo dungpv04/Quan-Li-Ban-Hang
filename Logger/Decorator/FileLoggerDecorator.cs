@@ -5,6 +5,7 @@ using System.Linq;
 using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace Logger.Decorator
 {
@@ -16,7 +17,10 @@ namespace Logger.Decorator
         public FileLoggerDecorator(IConsoleLogger innerLogger)
         {
             _innerLogger = innerLogger;
-            _filePath = $"log_{DateTime.Now:yyyy-MM-dd_HH-mm-ss}.txt";
+            var _fileName = $"log_{DateTime.Now:yyyy-MM-dd_HH-mm-ss}.txt";
+            var logDir = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Logs");
+            Directory.CreateDirectory(logDir);
+            _filePath = Path.Combine(logDir, _fileName);
         }
 
         public void LogInfo(string message)

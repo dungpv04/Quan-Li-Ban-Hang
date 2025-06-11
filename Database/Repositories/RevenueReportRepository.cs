@@ -108,5 +108,10 @@ namespace Database.Repositories
 
             return await query.ToListAsync();
         }
+
+        Task<bool> IRepository<RevenueReport>.UpdateAsync(RevenueReport updatedEntity, string id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

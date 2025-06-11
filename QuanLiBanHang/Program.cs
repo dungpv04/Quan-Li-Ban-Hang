@@ -1,4 +1,6 @@
 ﻿using Database.Repositories;
+using Logger.ConsoleLogger;
+using Logger.Decorator;
 using Microsoft.Extensions.DependencyInjection;
 using Services.Services;
 using Shared;
@@ -41,6 +43,8 @@ namespace QuanLiBanHang
             ApplicationConfiguration.Initialize();
             var mainForm = serviceProvider.GetRequiredService<MainForm>();
             Application.Run(mainForm);
+
+           
         }
     }
 }
