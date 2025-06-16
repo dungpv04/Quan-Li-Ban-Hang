@@ -5,6 +5,7 @@ namespace Database.IRepositories
 {
     public interface IRepository<T> where T : class
     {
+        //Generic + Method template
         Task<IEnumerable<T>> GetAllAsync();
         Task<T?> GetByIdAsync(object id);
         Task<bool> AddAsync(T entity);

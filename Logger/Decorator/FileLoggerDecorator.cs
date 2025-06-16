@@ -11,6 +11,7 @@ namespace Logger.Decorator
 {
     public class FileLoggerDecorator : IConsoleLogger
     {
+        //Decorator for ConsoleLogger
         private readonly IConsoleLogger _innerLogger;
         private readonly string _filePath;
 

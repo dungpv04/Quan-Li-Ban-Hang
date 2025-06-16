@@ -11,6 +11,7 @@ namespace Shared.Factory
 {
     public class ViewModelAbstractFactory : IAbstractFactory
     {
+        //Abstract factory pattern
         public BrandViewModel createBrandViewModel(ThuongHieu entity)
         {
             return new BrandViewModel

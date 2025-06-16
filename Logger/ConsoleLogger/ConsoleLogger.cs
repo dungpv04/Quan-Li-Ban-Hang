@@ -2,6 +2,7 @@
 {
     public class ConsoleLogger : IConsoleLogger
     {
+        //Singleton
         private static readonly Lazy<ConsoleLogger> _instance = new(() => new ConsoleLogger());
         public static ConsoleLogger Instance => _instance.Value;
 

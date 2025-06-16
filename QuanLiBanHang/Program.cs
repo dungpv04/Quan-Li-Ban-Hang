@@ -21,6 +21,7 @@ namespace QuanLiBanHang
             var services = new ServiceCollection();
 
             // Đăng ký tất cả services
+            //Dependency Injection(IOC)
             services.AddDatabase();
             services.AddServices();
             services.AddShared();
