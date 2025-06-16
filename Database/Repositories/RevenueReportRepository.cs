@@ -109,9 +109,29 @@ namespace Database.Repositories
             return await query.ToListAsync();
         }
 
-        Task<bool> IRepository<RevenueReport>.UpdateAsync(RevenueReport updatedEntity, string id)
+        public async Task<bool> UpdateAsync(RevenueReport updatedEntity, string id)
         {
-            throw new NotImplementedException();
+            var existingEntity =  await _dbSet.FirstOrDefaultAsync(e => e.Id == id);
+            if (existingEntity == null)
+            {
+                return false;
+            }
+
+            // Cập nhật các trường
+            existingEntity.MaHoaDon = updatedEntity.MaHoaDon;
+            existingEntity.NgayBan = updatedEntity.NgayBan;
+            existingEntity.TenNhanVien = updatedEntity.TenNhanVien;
+            existingEntity.TenKhach = updatedEntity.TenKhach;
+            existingEntity.TenHang = updatedEntity.TenHang;
+            existingEntity.TenLoai = updatedEntity.TenLoai;
+            existingEntity.SoLuong = updatedEntity.SoLuong;
+            existingEntity.DonGia = updatedEntity.DonGia;
+            existingEntity.ThanhTien = updatedEntity.ThanhTien;
+            existingEntity.TongTien = updatedEntity.TongTien;
+
+            await _context.SaveChangesAsync();
+
+            return true;
         }
     }
 }
