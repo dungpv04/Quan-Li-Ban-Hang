@@ -74,7 +74,19 @@ namespace Shared.Factory
             };
         }
 
-        public RevenueReportViewModel createRevenueReportViewModel(HoaDonBan hoaDonBan, ChiTietHDBan chiTiet, Hang hang, LoaiHang loaiHang, NhanVien nhanVien, Khach khach)
+        public CustomerViewModel createCustomerViewModel(Khach entity)
+        {
+            return new CustomerViewModel
+            {
+                MaKhach = entity.MaKhach,
+                TenKhach = entity.TenKhach,
+                DiaChi = entity.DiaChi,
+                DienThoai = entity.DienThoai
+            };
+        }
+
+        public RevenueReportViewModel createRevenueReportViewModel(HoaDonBan hoaDonBan, ChiTietHDBan chiTiet, Hang hang,
+            LoaiHang loaiHang, NhanVien nhanVien, Khach khach)
         {
             return new RevenueReportViewModel
             {
@@ -90,6 +102,5 @@ namespace Shared.Factory
                 TongTien = hoaDonBan.TongTien
             };
         }
-
     }
 }

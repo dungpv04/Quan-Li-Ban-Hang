@@ -15,6 +15,9 @@ namespace Shared.IFactory
         SupplierViewModel createSupplierViewModel(NhaCungCap entity);
         EmployeeViewModel createEmployeeViewModel(NhanVien entity);
         ProductViewModel createProductViewModel(Hang entity);
-        RevenueReportViewModel createRevenueReportViewModel(HoaDonBan hoaDonBan, ChiTietHDBan chiTiet, Hang hang, LoaiHang loaiHang, NhanVien nhanVien, Khach khach);
+        CustomerViewModel createCustomerViewModel(Khach entity);
+
+        RevenueReportViewModel createRevenueReportViewModel(HoaDonBan hoaDonBan, ChiTietHDBan chiTiet, Hang hang,
+            LoaiHang loaiHang, NhanVien nhanVien, Khach khach);
     }
 }

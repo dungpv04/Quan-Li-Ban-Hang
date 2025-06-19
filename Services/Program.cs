@@ -13,12 +13,13 @@ public static class ServiceDependency
         services.AddScoped<ISupplierService, SupplierService>();
         services.AddScoped<IEmployeeService, EmployeeService>();
         services.AddScoped<IProductService, ProductService>();
+        services.AddScoped<ICustomerService, CustomerService>();
+
         services.AddScoped<IRevenueReportService, RevenueReportService>();
         return services;
     }
 
     public static void Main()
     {
-
     }
 }
